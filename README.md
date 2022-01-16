@@ -1,5 +1,5 @@
 Hello, my name is `Cheick FOFANA` and this is my personnal repo. You can find here some works that i have done (sometimes with my sidekick `Isaac NIVET`) in the past during my free time between school and my life as a ML engineer. I still have lot of works in the background on computer vision, cryptocurrencies and a lot of fun stuff...
-----
+
 
 This repo contains the following files/directories : 
 
