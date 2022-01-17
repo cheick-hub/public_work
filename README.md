@@ -5,7 +5,7 @@ This repo contains the following files/directories :
 
 - `Automatic_research_paper_clustering` : this directory contains all the necessary in order to automatically cluster new research papers from `arxiv.org`. The articles are scrapped, embedded, then clustered. Results are exposed on a local server. (Documentation in progress 😅)
 
-- `FOFANA_NIVET_dgl_presentation.html` : this file show semi-supervised learning with a classification task on a knowledge graph(`Karate Club dataset`) by using a graph neural network.
+- `FOFANA_NIVET_dgl_presentation.ipynb` : this file show semi-supervised learning with a classification task on a knowledge graph(`Karate Club dataset`) by using a graph neural network.
 
 - `Neural_MF.html` : this file contains a benchmark between three deep learning models on the task of infering users opinions(ratings). This is based on matrix factorisation in recommender systems on the well-know dataset `movielens`. (Interpretation in progress 😅)
 
