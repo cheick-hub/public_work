@@ -12,20 +12,20 @@ def save_last_day_articles():
         print(f'Scraping category: {category}...')
         today = datetime.date.today()
         scraper = arxivscraper.Scraper(category=category, date_from=str(today - datetime.timedelta(days=2)), date_until=str(today))
-        try:
-            for paper in scraper.scrape():
-                if paper['id'] in seen_ids:
-                    continue
-                papers.append(paper)
-                seen_ids.add(paper['id'])
-        except TypeError:
-            print('Hmm')
-            continue
+        temp = scraper.scrape()
+        print(temp)
+        for paper in temp:
+            if paper['id'] in seen_ids:
+                continue
+            papers.append(paper)
+            seen_ids.add(paper['id'])
     cols = ('id', 'title', 'categories', 'abstract', 'doi', 'created', 'updated', 'authors')
     df = pd.DataFrame(papers, columns=cols)
-    embeds = embed_texts(df.abstract)
+    title_embeds = embed_texts(df.title)
+    abstract_embeds = embed_texts(df.abstract)
     df.to_json('data/recent_papers.json', orient='records', indent=2)
-    np.save('data/recent_papers_embeddings.npy', embeds)
+    np.save('data/recent_papers_abstract_embeddings.npy', abstract_embeds)
+    np.save('data/recent_papers_title_embeddings.npy', title_embeds)
 
 if __name__ == '__main__':
     save_last_day_articles()

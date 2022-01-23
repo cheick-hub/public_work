@@ -1,0 +1,4662 @@
+{
+  "#1: graphene ; energy ; temperature ; properties ; high:": [
+    {
+      "id": "2201.08004",
+      "title": "Drones practicing mechanics"
+    },
+    {
+      "id": "2110.10845",
+      "title": "Fast active thermal cloaking through pde-constrained optimization and reduced-order modeling"
+    },
+    {
+      "id": "2201.07799",
+      "title": "Some metrics for the crystal cubic carbon ccc(n) and the layer cycle graph lcg(n,k)"
+    },
+    {
+      "id": "1811.08766",
+      "title": "Electron effective mass and electronic structure in nonstoichiometric a-igzo films"
+    },
+    {
+      "id": "2107.06161",
+      "title": "Quantitative electronic structure and work-function changes of liquid water induced by solute"
+    },
+    {
+      "id": "2108.09771",
+      "title": "On the product selectivity in the electrochemical reductive cleavage of lignin model compounds"
+    },
+    {
+      "id": "2108.11183",
+      "title": "Pump-induced terahertz anisotropy in bilayer graphene"
+    },
+    {
+      "id": "2109.05154",
+      "title": "Rheological, microstructural characterization and interlayer bonding of 3d printed cement mortars with slump retaining polycarboxylate superplasticizer"
+    },
+    {
+      "id": "2109.11116",
+      "title": "Formation and morphology of closed and porous films grown from grains seeded on substrates: two-dimensional simulations"
+    },
+    {
+      "id": "2110.00748",
+      "title": "Single-layer ga2o3/graphene heterogeneous structure with optical switching effect"
+    },
+    {
+      "id": "2111.02217",
+      "title": "Baby skyrmion crystals"
+    },
+    {
+      "id": "2111.06513",
+      "title": "Smoothing of 1d and 2d discontinuities in potential energy surfaces"
+    },
+    {
+      "id": "2201.04683",
+      "title": "A comprehensive study on the spectroscopic characterization and molecular dynamics simulation of pristine and functionalized graphene nanoplatelets for gas sensing applications"
+    },
+    {
+      "id": "2201.07686",
+      "title": "Comment on nature 586, 373 (2020) by e. snider et al"
+    },
+    {
+      "id": "2201.07854",
+      "title": "Planar cu and o nmr and the pseudogap of cuprate superconductors"
+    },
+    {
+      "id": "2201.07857",
+      "title": "Transient nature of fast relaxation in metallic glass"
+    },
+    {
+      "id": "2201.07887",
+      "title": "The effect of non-ionizing excitations on the diffusion of ion species and inter-track correlations in flash ultra-high dose rate radiotherapy"
+    },
+    {
+      "id": "2201.07942",
+      "title": "Density functional study of atomic and electronic structures of graphene on the fepd(001) surface"
+    },
+    {
+      "id": "2201.07947",
+      "title": "Electrical transport properties of thick and thin ta-doped sno$_2$ films"
+    },
+    {
+      "id": "2201.08033",
+      "title": "Porous sio$_2$ coated dielectric metasurface with consistent performance independent of environmental conditions"
+    },
+    {
+      "id": "2201.08039",
+      "title": "Laser-controlled charge transfer in a two-dimensional organic/inorganic heterostructure"
+    },
+    {
+      "id": "2201.08074",
+      "title": "Evaluation of the thermal stability of tiw/cu heterojunctions using a combined sxps and haxpes approach"
+    },
+    {
+      "id": "2201.08085",
+      "title": "Dynamic growth/etching model for the synthesis of two-dimensional transition metal dichalcogenides via chemical vapour deposition"
+    },
+    {
+      "id": "2201.08088",
+      "title": "Crystal structure evolution in the van der waals transition metal trihalides"
+    },
+    {
+      "id": "2201.08091",
+      "title": "Predicting and machine learning structural instabilities in 2d materials"
+    },
+    {
+      "id": "2201.08106",
+      "title": "Coherent optical processes on cs d$_2$ line magnetically induced transitions"
+    },
+    {
+      "id": "2201.08121",
+      "title": "Effect of vanadium catalysts on hydrogen evolution from nabh4"
+    },
+    {
+      "id": "2201.08149",
+      "title": "Temperature-assisted piezoresponse force microscopy: probing local temperature-induced phase transitions in ferroics"
+    },
+    {
+      "id": "2201.08173",
+      "title": "Double fu-teleportation and anomalous coulomb blockade in a mixed andreev-majorana superconducting island"
+    },
+    {
+      "id": "2201.08235",
+      "title": "Fabrication and micro-raman spectroscopy of arrays of copper phthalocyanine molecular-magnet microdisks"
+    },
+    {
+      "id": "2201.08243",
+      "title": "Novel c-dots/titanate nanowires hybrid materials with enhanced optical and photocatalytic properties"
+    },
+    {
+      "id": "2201.08249",
+      "title": "A nanomechanical testing framework yielding front&rear-sided, high-resolution, microstructure-correlated sem-dic strain fields"
+    },
+    {
+      "id": "2201.08255",
+      "title": "Controlled transition metal nucleated growth of carbon nanotubes by molten electrolysis of co$_2$"
+    },
+    {
+      "id": "2201.08256",
+      "title": "Coexistence of two types of short-range order in sigesn medium-entropy alloys"
+    },
+    {
+      "id": "2201.08273",
+      "title": "Active gels: from chemical microreactor to polymeric actuator"
+    },
+    {
+      "id": "2201.08290",
+      "title": "Algorithm for constructing customized quantized resistances in graphene $p-n$ junctions"
+    },
+    {
+      "id": "2201.08342",
+      "title": "The effect of dielectric environment on the neutral and charged dark excitons in wse$_2$ monolayer"
+    }
+  ],
+  "#2: model ; rm ; mass ; quark ; higgs:": [
+    {
+      "id": "2106.11161",
+      "title": "The random phase approximation for interacting fermi gases in the mean-field regime"
+    },
+    {
+      "id": "2201.07841",
+      "title": "The intermediate spectral form factor and the `t hooft limit -- a novel type of random matrix universality?"
+    },
+    {
+      "id": "2201.08325",
+      "title": "The kronig-penney model in a quadratic channel with $\\delta $ interactions. ii : scattering approach"
+    },
+    {
+      "id": "2201.08372",
+      "title": "Higher symmetries of 5d orbifold scfts"
+    },
+    {
+      "id": "2012.00700",
+      "title": "Gapless to gapless phase transitions in quantum spin chains"
+    },
+    {
+      "id": "2106.06497",
+      "title": "Charge-density-wave-induced peak-dip-hump structure and the multiband superconductivity in a kagome superconductor csv$_{3}$sb$_{5}$"
+    },
+    {
+      "id": "2107.09974",
+      "title": "Singlet channel scattering in a composite higgs model on the lattice"
+    },
+    {
+      "id": "2107.13475",
+      "title": "Vector dark matter production from catalyzed annihilation"
+    },
+    {
+      "id": "2108.04188",
+      "title": "Constraints from high-precision measurements of the cosmic microwave background: the case of disintegrating dark matter with ${\\lambda}$ or dynamical dark energy"
+    },
+    {
+      "id": "2109.15248",
+      "title": "Exclusive determinations of $\\vert v_{cb} \\vert$ and $r(d^{*})$ through unitarity"
+    },
+    {
+      "id": "2109.15277",
+      "title": "Higgs-mass constraints on a supersymmetric solution of the muon g-2 anomaly"
+    },
+    {
+      "id": "2110.05278",
+      "title": "Nonperturbative two-pion exchange contributions to the nucleon-nucleon interaction in covariant baryon chiral perturbation theory"
+    },
+    {
+      "id": "2110.06941",
+      "title": "Gegenbauer goldstones"
+    },
+    {
+      "id": "2111.10341",
+      "title": "Neutrinoless double-beta decay and lepton flavor violation in discrete flavor symmetric left-right symmetric model"
+    },
+    {
+      "id": "2112.03382",
+      "title": "Nuclear charge radii of the nickel isotopes $^{58-68,70}$ni"
+    },
+    {
+      "id": "2112.09473",
+      "title": "Thermal freeze-out parameters and pseudo-entropy from charged hadron spectra in high energy collisions"
+    },
+    {
+      "id": "2201.00939",
+      "title": "Neutrino bound states and bound systems"
+    },
+    {
+      "id": "2201.02417",
+      "title": "$m_b(m_z)$ revisited with zedometry"
+    },
+    {
+      "id": "2201.06677",
+      "title": "Finite temperature strong coupling expansions for the su(n) hubbard model"
+    },
+    {
+      "id": "2201.07077",
+      "title": "Ysf measurement of the shape of the b quark fragmentation function using charmed mesons produced inside b jets from ttbar decays"
+    },
+    {
+      "id": "2201.07808",
+      "title": "Boosted tau lepton as a microscope and macroscope"
+    },
+    {
+      "id": "2201.07859",
+      "title": "Search for charged-lepton flavor violation in top quark production and decay in pp collisions at $\\sqrt{s}$ = 13 tev"
+    },
+    {
+      "id": "2201.07861",
+      "title": "Precision measurement of the w boson decay branching fractions in proton-proton collisions at $\\sqrt{s}$ = 13 tev"
+    },
+    {
+      "id": "2201.07873",
+      "title": "The planar thermal hall conductivity in the kitaev magnet {\\alpha}-rucl3"
+    },
+    {
+      "id": "2201.07987",
+      "title": "The $^6$li$(p, \\gamma)^7$be reaction rate in the light of the new luna data"
+    },
+    {
+      "id": "2201.08059",
+      "title": "Electromagnetic and gravitational form factors of $\\delta$ resonance in a covariant quark-diquark approach"
+    },
+    {
+      "id": "2201.08123",
+      "title": "Emergent flat-band physics in $d^{9-\\delta}$ multilayer nickelates"
+    },
+    {
+      "id": "2201.08132",
+      "title": "Axions in baryon chiral perturbation theory"
+    },
+    {
+      "id": "2201.08139",
+      "title": "Decay of the charged higgs boson and the top quark in two-higgs-doublet model at nnlo in qcd"
+    },
+    {
+      "id": "2201.08147",
+      "title": "Current cross-correlations in a quantum hall collider at filling factor two"
+    },
+    {
+      "id": "2201.08170",
+      "title": "Importance of $z-z^\\prime$ mixing in $b\\to s\\ell^+\\ell^-$ and the $w$ mass"
+    },
+    {
+      "id": "2201.08200",
+      "title": "Meg ii experiment status and prospect"
+    },
+    {
+      "id": "2201.08238",
+      "title": "Strangeness ${s=-3}$ and ${-4}$ baryon-baryon interactions in chiral effective field theory"
+    },
+    {
+      "id": "2201.08253",
+      "title": "A combined analysis of the $z_c(3900)$ and the $z_{cs}(3985)$ exotic states"
+    },
+    {
+      "id": "2201.08269",
+      "title": "Measurements of higgs boson production cross-sections in the $h\\to\\tau^{+}\\tau^{-}$ decay channel in $pp$ collisions at $\\sqrt{s}=13\\,\\text{tev}$ with the atlas detector"
+    },
+    {
+      "id": "2201.08317",
+      "title": "Bottomonium spectroscopy using coulomb plus linear (cornell) potential"
+    },
+    {
+      "id": "2201.08332",
+      "title": "Ground state magnetic dipole moment of $^{40}$sc"
+    }
+  ],
+  "#3: optical ; quantum ; photon ; laser ; light:": [
+    {
+      "id": "2002.06168",
+      "title": "Spectral extension and synchronisation of microcombs in a single microresonator"
+    },
+    {
+      "id": "2104.07751",
+      "title": "Breaking of huygens-fresnel principle in inhomogeneous tomonaga-luttinger liquids"
+    },
+    {
+      "id": "2104.13351",
+      "title": "Dark-bright soliton bound states in a microresonator"
+    },
+    {
+      "id": "2105.09721",
+      "title": "Thermal signals from collective electronic excitations in inhomogeneous warm dense matter"
+    },
+    {
+      "id": "2105.12440",
+      "title": "Homodyne detection of a two-photon resonance assisted by cooperative emission"
+    },
+    {
+      "id": "2106.00330",
+      "title": "Optical excitation of ultra-relativistic partially stripped ions"
+    },
+    {
+      "id": "2108.11963",
+      "title": "Dressed emitters as impurities"
+    },
+    {
+      "id": "2109.09392",
+      "title": "Universal density of low frequency states in silica glass at finite temperatures"
+    },
+    {
+      "id": "2109.09449",
+      "title": "Coarse-to-fine optical mems accelerometer design and simulation"
+    },
+    {
+      "id": "2110.14977",
+      "title": "Anisotropic optical and vibrational properties of ges"
+    },
+    {
+      "id": "2110.15623",
+      "title": "Thermal noise reduction in soliton microcombs via laser self-cooling"
+    },
+    {
+      "id": "2111.04386",
+      "title": "A partially linearized spin-mapping approach for simulating nonlinear optical spectra"
+    },
+    {
+      "id": "2111.15219",
+      "title": "Steering light with magnetic textures"
+    },
+    {
+      "id": "2201.03426",
+      "title": "Parameter-free quantum hydrodynamic theory for plasmonics: electron density-dependent damping rate and diffusion coefficient"
+    },
+    {
+      "id": "2201.06350",
+      "title": "Megahertz-rate ultrafast x-ray scattering and holographic imaging at the european xfel"
+    },
+    {
+      "id": "2201.07158",
+      "title": "An achromatic metafiber for focusing and imaging across the entire telecommunication range"
+    },
+    {
+      "id": "2201.07585",
+      "title": "Relaxation oscillations of an exciton-polariton condensate driven by parametric scattering"
+    },
+    {
+      "id": "2201.07731",
+      "title": "Interplay of hyperbolic plasmons and superconductivity"
+    },
+    {
+      "id": "2201.07804",
+      "title": "Topological frequency conversion in weyl semimetals"
+    },
+    {
+      "id": "2201.07819",
+      "title": "Extractable work in quantum electromechanics"
+    },
+    {
+      "id": "2201.07842",
+      "title": "Active tuning of plasmon damping via light induced magnetism"
+    },
+    {
+      "id": "2201.07897",
+      "title": "Direct measurement of optical properties of glacier ice using a photon-counting diffuse lidar"
+    },
+    {
+      "id": "2201.07914",
+      "title": "Entangled two-plasmon generation in carbon nanotubes and graphene coated wires"
+    },
+    {
+      "id": "2201.07997",
+      "title": "Generation of vortex particles via weak measurements"
+    },
+    {
+      "id": "2201.08031",
+      "title": "Anomalous transverse optic phonons in snte and pbte -- revisited"
+    },
+    {
+      "id": "2201.08086",
+      "title": "Superfluid-mott insulator quantum phase transition in a cavity optomagnonic system"
+    },
+    {
+      "id": "2201.08144",
+      "title": "Photon scattering from a quantum acoustically modulated two-level system"
+    },
+    {
+      "id": "2201.08156",
+      "title": "One-dimensional bound states in the continuum in the w~k space for nonlinear optical applications"
+    },
+    {
+      "id": "2201.08185",
+      "title": "Highly sensitive controllability of optical bistability in three-level atomic systems"
+    },
+    {
+      "id": "2201.08245",
+      "title": "Fundamentals of scanning surface structuring by ultrashort laser pulses: from electron diffusion to final morphology"
+    },
+    {
+      "id": "2201.08248",
+      "title": "Packaging-enhanced optical fiber-chip interconnect with enlarged grating coupler and multimode fiber"
+    },
+    {
+      "id": "2201.08258",
+      "title": "Quantized fractional thouless pumping of solitons"
+    },
+    {
+      "id": "2201.08272",
+      "title": "High speed, high power 2d beam steering for mitigation of optomechanical parametric instability in gravitational wave detectors"
+    },
+    {
+      "id": "2201.08291",
+      "title": "Quantum dual-path interferometry scheme for axion dark matter searches"
+    },
+    {
+      "id": "2201.08297",
+      "title": "Space-time wave packets"
+    },
+    {
+      "id": "2201.08374",
+      "title": "Ultrafast loss of lattice coherence in the light-induced structural phase transition of the mott-insulator v$_2$o$_3$"
+    }
+  ],
+  "#4: galaxies ; mass ; galaxy ; stars ; star:": [
+    {
+      "id": "2103.06882",
+      "title": "On the origin of surprisingly cold gas discs in galaxies at high redshift"
+    },
+    {
+      "id": "2106.09729",
+      "title": "How cosmological merger histories shape the diversity of stellar haloes"
+    },
+    {
+      "id": "2107.02998",
+      "title": "Gravitational lensing of core collapse supernova gravitational wave signals"
+    },
+    {
+      "id": "2107.04784",
+      "title": "A non-parametric test of variability of type ia supernovae luminosity and cddr"
+    },
+    {
+      "id": "2107.07531",
+      "title": "Considerations for optimizing photometric classification of supernovae from the rubin observatory"
+    },
+    {
+      "id": "2110.09546",
+      "title": "Unveiling the nature of sn 2011fh: a young and massive star gives rise to a luminous sn 2009ip-like event"
+    },
+    {
+      "id": "2110.10693",
+      "title": "Rapid growth of seed black holes during early bulge formation"
+    },
+    {
+      "id": "2111.00016",
+      "title": "A rapid ionization change in the nebular-phase spectra of the type ia sn 2011fe"
+    },
+    {
+      "id": "2201.06334",
+      "title": "Observations of the initial formation and evolution of spiral galaxies at $1 < z < 3$ in the candels fields"
+    },
+    {
+      "id": "2201.06882",
+      "title": "On the origin of cosmic web"
+    },
+    {
+      "id": "2201.07315",
+      "title": "Deuterium chemistry and d/h ratios in class 0/i proto-brown dwarfs"
+    },
+    {
+      "id": "2201.07488",
+      "title": "Cosmic ray production in superbubbles"
+    },
+    {
+      "id": "2201.07801",
+      "title": "Cosmological results from the raisin survey: using type ia supernovae in the near infrared as a novel path to measure the dark energy equation of state"
+    },
+    {
+      "id": "2201.07809",
+      "title": "A galah view of the chemical homogeneity and ages of stellar strings identified in gaia"
+    },
+    {
+      "id": "2201.07810",
+      "title": "The half mass radius of manga galaxies. i. effect of imf gradients"
+    },
+    {
+      "id": "2201.07811",
+      "title": "Cool circumgalactic gas in galaxy clusters: connecting the desi legacy imaging survey and sdss dr16 mgii absorbers"
+    },
+    {
+      "id": "2201.07814",
+      "title": "The quenching of galaxies, bulges, and disks since cosmic noon: a machine learning approach for identifying causality in astronomical data"
+    },
+    {
+      "id": "2201.07815",
+      "title": "The bright extragalactic alma redshift survey (bears) i: redshifts of bright gravitationally-lensed galaxies from the herschel atlas"
+    },
+    {
+      "id": "2201.07816",
+      "title": "A survey of disc thickness and viscosity in circumbinary accretion: binary evolution, variability, and disc morphology"
+    },
+    {
+      "id": "2201.07817",
+      "title": "Scatter in the satellite galaxy shmr: fitting functions, scaling relations & physical processes from the illustristng simulation"
+    },
+    {
+      "id": "2201.07818",
+      "title": "Episodic gaseous outflows and mass loss from red supergiants"
+    },
+    {
+      "id": "2201.07838",
+      "title": "Gas condensation in brightest group galaxies unveiled with muse"
+    },
+    {
+      "id": "2201.07844",
+      "title": "On the energy dependence of galactic cosmic ray anisotropies in the very local interstellar medium"
+    },
+    {
+      "id": "2201.07864",
+      "title": "Nebular-phase spectra of type ia supernovae from the las cumbres observatory global supernova project"
+    },
+    {
+      "id": "2201.08007",
+      "title": "The variability of the narrow-line seyfert 1 galaxies from the panstarrs's view"
+    },
+    {
+      "id": "2201.08079",
+      "title": "Cool outflows in manga: a systematic study and comparison to the warm phase"
+    },
+    {
+      "id": "2201.08146",
+      "title": "Discovery of a highly magnetic he-sdo star from a double-degenerate binary merger"
+    },
+    {
+      "id": "2201.08172",
+      "title": "Parameterizing the outflow from a central black hole in dwarf spheroidal galaxies: a 3d hydrodynamic simulation"
+    },
+    {
+      "id": "2201.08285",
+      "title": "Optical observations of star clusters ngc 1513 and ngc 4147; white dwarf wd1145+017 and $k$ band imaging of star forming region sh2-61 with the 3.6 meter devasthal optical telescope"
+    },
+    {
+      "id": "2201.08335",
+      "title": "128 microlensing events from the three years of zwicky transient facility phase one"
+    },
+    {
+      "id": "2201.08337",
+      "title": "Dynamically tagged groups of metal-poor stars ii. the radial velocity experiment data release 6"
+    },
+    {
+      "id": "2201.08345",
+      "title": "Magnetic field evolution in neutron star crusts: beyond the hall effect"
+    },
+    {
+      "id": "2201.08358",
+      "title": "Compact groups from semi-analytical models of galaxy formation -- iii: purity and completeness of hickson-like catalogues"
+    },
+    {
+      "id": "2201.08360",
+      "title": "Simulations of agn driven galactic outflow morphology and content"
+    },
+    {
+      "id": "2201.08375",
+      "title": "Agn light echoes and the accretion disc self-gravity limit"
+    },
+    {
+      "id": "2201.08381",
+      "title": "Stellar masses, sizes, and radial profiles for 465 nearby early-type galaxies: an extension to the spitzer survey of stellar structure in galaxies (s$^{4}$g)"
+    }
+  ],
+  "#5: quantum ; qubit ; entanglement ; state ; states:": [
+    {
+      "id": "2009.01235",
+      "title": "Quantum discriminator for binary classification"
+    },
+    {
+      "id": "2009.07268",
+      "title": "An improved quantum-inspired algorithm for linear regression"
+    },
+    {
+      "id": "2103.08975",
+      "title": "Tight bounds for inverting permutations via compressed oracle arguments"
+    },
+    {
+      "id": "2112.07611",
+      "title": "Speeding up learning quantum states through group equivariant convolutional quantum ans\\\"atze"
+    },
+    {
+      "id": "2112.08055",
+      "title": "Building separable approximations for quantum states via neural networks"
+    },
+    {
+      "id": "2201.07923",
+      "title": "The accuracy vs. sampling overhead trade-off in quantum error mitigation using monte carlo-based channel inversion"
+    },
+    {
+      "id": "2201.08309",
+      "title": "Lecture notes on quantum algorithms for scientific computation"
+    },
+    {
+      "id": "2010.07852",
+      "title": "On hybrid quantum and classical computing algorithms for mixed-integer programming"
+    },
+    {
+      "id": "2102.06193",
+      "title": "Witnessing wigner negativity"
+    },
+    {
+      "id": "2201.08067",
+      "title": "Random walk replicating discrete time quantum walk on one dimension"
+    },
+    {
+      "id": "2004.01591",
+      "title": "Relating spin squeezing to multipartite entanglement criteria for particles and modes"
+    },
+    {
+      "id": "2008.11294",
+      "title": "Measuring the capabilities of quantum computers"
+    },
+    {
+      "id": "2012.15199",
+      "title": "Coherent phase transfer for real-world twin-field quantum key distribution"
+    },
+    {
+      "id": "2102.05545",
+      "title": "Oscillator-to-oscillator codes do not have a threshold"
+    },
+    {
+      "id": "2102.08722",
+      "title": "Quantifying necessary quantum resources for nonlocality"
+    },
+    {
+      "id": "2103.07141",
+      "title": "Detection of multipartite entanglement via quantum fisher information"
+    },
+    {
+      "id": "2103.07313",
+      "title": "Detection of the quantum states containing at most $k-1$ unentangled particles"
+    },
+    {
+      "id": "2103.13223",
+      "title": "Secure quantum pattern communication"
+    },
+    {
+      "id": "2105.05870",
+      "title": "Gauge invariant quantum circuits for $u(1)$ and yang-mills lattice gauge theories"
+    },
+    {
+      "id": "2105.14581",
+      "title": "Simulating of x-states and the two-qubit xyz heisenberg system on ibm quantum computer"
+    },
+    {
+      "id": "2108.02626",
+      "title": "Fast universal quantum control above the fault-tolerance threshold in silicon"
+    },
+    {
+      "id": "2108.04696",
+      "title": "Resonance fluorescence spectral dynamics of an acoustically modulated quantum dot"
+    },
+    {
+      "id": "2110.12234",
+      "title": "Space-warp coordinate transformation for efficient ionic force calculations in quantum monte carlo"
+    },
+    {
+      "id": "2110.15153",
+      "title": "The effect of quantum noise on algorithmic perfect quantum state transfer on nisq processors"
+    },
+    {
+      "id": "2112.03924",
+      "title": "Local quantum overlapping tomography"
+    },
+    {
+      "id": "2201.07806",
+      "title": "Low-overhead quantum computing with the color code"
+    },
+    {
+      "id": "2201.07918",
+      "title": "Tensor products of entangled subspaces and their properties from diagrammatic constructions"
+    },
+    {
+      "id": "2201.07963",
+      "title": "Quantum orbital minimization method for excited states calculation on quantum computer"
+    },
+    {
+      "id": "2201.07969",
+      "title": "Computing with two quantum reservoirs connected via optimized two-qubit nonselective measurements"
+    },
+    {
+      "id": "2201.08028",
+      "title": "One-way epr steering beyond qubits"
+    },
+    {
+      "id": "2201.08080",
+      "title": "Optimization of richardson extrapolation for quantum error mitigation"
+    },
+    {
+      "id": "2201.08175",
+      "title": "Diagnosing quantum chaos with out-of-time-ordered-correlator quasiprobability in the kicked-top model"
+    },
+    {
+      "id": "2201.08194",
+      "title": "Avoiding barren plateaus using classical shadows"
+    },
+    {
+      "id": "2201.08234",
+      "title": "Experimental realization of quantum teleportation of arbitrary single and two-qubit states via hypergraph states"
+    },
+    {
+      "id": "2201.08382",
+      "title": "Entanglement cost in topological stabilizer models at finite temperature"
+    }
+  ],
+  "#6: quantum ; states ; theory ; non ; field:": [
+    {
+      "id": "2111.12080",
+      "title": "$t\\bar t$ deformation of calogero-sutherland model via dimensional reduction"
+    },
+    {
+      "id": "2201.07239",
+      "title": "Gauging u(1) symmetry in (2+1)d topological phases"
+    },
+    {
+      "id": "2201.07812",
+      "title": "Holevo skew divergence for the characterization of information backflow"
+    },
+    {
+      "id": "2201.08114",
+      "title": "Standing waves on quantum graphs"
+    },
+    {
+      "id": "2201.08282",
+      "title": "One-dimensional quantum systems with ground-state of jastrow form are integrable"
+    },
+    {
+      "id": "2012.01886",
+      "title": "Projection hypothesis from the von neumann-type interaction with a bose-einstein condensate"
+    },
+    {
+      "id": "2103.13150",
+      "title": "A discrete relativistic spacetime formalism for 1+1-qed with continuum limits"
+    },
+    {
+      "id": "2103.14041",
+      "title": "How to build hamiltonians that transport noncommuting charges in quantum thermodynamics"
+    },
+    {
+      "id": "2103.16044",
+      "title": "First-order bose-einstein condensation with three-body interacting bosons"
+    },
+    {
+      "id": "2104.10151",
+      "title": "On the problem of time(s) in quantum mechanics and quantum gravity: recent integrating developments and outlook"
+    },
+    {
+      "id": "2105.08733",
+      "title": "Phonons as a platform for non-abelian braiding and its manifestation in layered silicates"
+    },
+    {
+      "id": "2106.10459",
+      "title": "Bulk-edge correspondence in the adiabatic heuristic principle"
+    },
+    {
+      "id": "2107.12409",
+      "title": "Inverted c-functions in thermal states"
+    },
+    {
+      "id": "2110.01385",
+      "title": "Quantum-geometric perspective on spin-orbit-coupled bose superfluids"
+    },
+    {
+      "id": "2112.06585",
+      "title": "Weakly-interacting bose-bose mixtures from the functional renormalisation group"
+    },
+    {
+      "id": "2112.11603",
+      "title": "Polaron-depleton transition in the yrast excitations of a one-dimensional bose gas with a mobile impurity"
+    },
+    {
+      "id": "2201.04153",
+      "title": "Designing non-hermitian real spectra through electrostatics"
+    },
+    {
+      "id": "2201.06303",
+      "title": "Two-stroke quantum measurement heat engine"
+    },
+    {
+      "id": "2201.07870",
+      "title": "Parton distributions of light quarks and antiquarks in the proton"
+    },
+    {
+      "id": "2201.07872",
+      "title": "Fermi polarons at finite temperature: spectral function and rf-spectroscopy"
+    },
+    {
+      "id": "2201.07893",
+      "title": "Adiabatic continuity of the spinful quantum hall states"
+    },
+    {
+      "id": "2201.07898",
+      "title": "Thermal casimir effect in a classical liquid in a quasi-periodically identified conical spacetime"
+    },
+    {
+      "id": "2201.07909",
+      "title": "Second order chiral phase transition in three flavor quantum chromodynamics?"
+    },
+    {
+      "id": "2201.07919",
+      "title": "Decoherence limit of quantum systems obeying generalized uncertainty principle: new paradigm for tsallis thermostatistics"
+    },
+    {
+      "id": "2201.07991",
+      "title": "Chiral anomaly in non-relativistic systems: berry curvature and chiral kinetic theory"
+    },
+    {
+      "id": "2201.07994",
+      "title": "Localization of matter waves in lattice systems with moving disorder"
+    },
+    {
+      "id": "2201.08008",
+      "title": "New insight in the 2-flavor schwinger model based on lattice simulations"
+    },
+    {
+      "id": "2201.08060",
+      "title": "Evolution of two-mode quantum states under a dissipative environment: which quantum resource survives better, squeezing or entanglement?"
+    },
+    {
+      "id": "2201.08075",
+      "title": "Revisiting entanglement-induced exclusion"
+    },
+    {
+      "id": "2201.08101",
+      "title": "Quasiclassical representation of the volkov propagator and the tadpole diagram in a plane wave"
+    },
+    {
+      "id": "2201.08287",
+      "title": "Uniformly accelerated brownian oscillator in (2+1)d: temperature-dependent dissipation and frequency shift"
+    },
+    {
+      "id": "2201.08330",
+      "title": "Entanglement entropy and phase space density: lowest landau levels and 1/2 bps states"
+    },
+    {
+      "id": "2201.08367",
+      "title": "The compton amplitude, lattice qcd and the feynman-hellmann approach"
+    }
+  ],
+  "#7: energy ; model ; electron ; plasma ; results:": [
+    {
+      "id": "2201.07941",
+      "title": "Machine-learning enabled analysis of elm filament dynamics in kstar"
+    },
+    {
+      "id": "2012.06407",
+      "title": "Hard gluon evolution in the last stage of the bottom-up thermalization"
+    },
+    {
+      "id": "2102.10596",
+      "title": "Connecting multi-lepton anomalies at the lhc and in astrophysics with meerkat/ska"
+    },
+    {
+      "id": "2103.04135",
+      "title": "Hard gluon evolution in warming medium"
+    },
+    {
+      "id": "2108.03471",
+      "title": "Bayesian approach to long-range correlations and multiplicity fluctuations in nucleus-nucleus collisions"
+    },
+    {
+      "id": "2108.13425",
+      "title": "Partition function of the levin-wen model"
+    },
+    {
+      "id": "2109.11499",
+      "title": "Cancellation mechanism of dark matter direct detection in higgs-portal and vector-portal models"
+    },
+    {
+      "id": "2110.04283",
+      "title": "Testing the impact of electromagnetic fields on the directed flow of constituent quarks in heavy-ion collisions"
+    },
+    {
+      "id": "2110.05417",
+      "title": "Learning atomic multipoles: prediction of the electrostatic potential with equivariant graph neural networks"
+    },
+    {
+      "id": "2110.14796",
+      "title": "Signatures of muonic activation in the majorana demonstrator"
+    },
+    {
+      "id": "2201.06330",
+      "title": "A spectral survey of ch3cch in the hot molecular core g331.512-0.103"
+    },
+    {
+      "id": "2201.07800",
+      "title": "Analyzing n-point energy correlators inside jets with cms open data"
+    },
+    {
+      "id": "2201.07805",
+      "title": "New physics searches at kaon and hyperon factories"
+    },
+    {
+      "id": "2201.07853",
+      "title": "Momentum conservation in current drive and alpha-channeling-mediated rotation drive"
+    },
+    {
+      "id": "2201.07871",
+      "title": "Inner-shell excitation in the ybf molecule and its impact on laser cooling"
+    },
+    {
+      "id": "2201.07895",
+      "title": "European strategy for particle physics -- accelerator r&d roadmap"
+    },
+    {
+      "id": "2201.07962",
+      "title": "Event-by-event investigation of the two-particle source function in heavy-ion collisions with epos"
+    },
+    {
+      "id": "2201.07976",
+      "title": "High-power laser experiment forming a supercritical collisionless shock in a magnetized uniform plasma at rest"
+    },
+    {
+      "id": "2201.08019",
+      "title": "Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock"
+    },
+    {
+      "id": "2201.08023",
+      "title": "Modeling time-resolved kinetics in solids induced by extreme electronic excitation"
+    },
+    {
+      "id": "2201.08034",
+      "title": "A feasibility study of extruded plastic scintillator embedding wls fiber for amore-ii muon veto"
+    },
+    {
+      "id": "2201.08040",
+      "title": "Cross-sectional uncertainties influences on sensitivity studies of dune and t2hk experiments"
+    },
+    {
+      "id": "2201.08061",
+      "title": "Sub-barrier fusion reactions"
+    },
+    {
+      "id": "2201.08096",
+      "title": "Fluidity of the system produced in relativistic pp and heavy-ion collisions: hadron resonance gas model approach"
+    },
+    {
+      "id": "2201.08097",
+      "title": "Calculations of neutron fluxes and isotope conversion rates in a thorium-fuelled myrrha reactor, using geant4 and mcnpx, nuclear engineering and design"
+    },
+    {
+      "id": "2201.08155",
+      "title": "Argon force field revisited: a molecular dynamic study"
+    },
+    {
+      "id": "2201.08179",
+      "title": "Forward-backward multiplicity distribution with the chou-yang model for $pp$ collisions at $\\sqrt{s}=$ 0.9, 7 and 8 tev from the cms experiment"
+    },
+    {
+      "id": "2201.08195",
+      "title": "Intermittency analysis of $pp$ collisions at $\\sqrt{s}=$ 0.9, 7 and 8 tev from the cms experiment"
+    },
+    {
+      "id": "2201.08268",
+      "title": "On the stability of superheavy nuclei"
+    },
+    {
+      "id": "2201.08333",
+      "title": "On the role of longitudinal currents in radiating systems of charges"
+    },
+    {
+      "id": "2201.08359",
+      "title": "Photochemical runaway in exoplanet atmospheres: implications for biosignatures"
+    }
+  ],
+  "#8: equation ; solutions ; equations ; time ; solution:": [
+    {
+      "id": "2201.08129",
+      "title": "Singularity and mesh divergence of inviscid adjoint solutions at solid walls"
+    },
+    {
+      "id": "1910.00380",
+      "title": "Boundary lebesgue mixed-norm estimates for non-stationary stokes systems with vmo coefficients"
+    },
+    {
+      "id": "2006.05269",
+      "title": "An improved lower bound of heilbronn's triangle problem"
+    },
+    {
+      "id": "2101.10059",
+      "title": "Membranes with thin and heavy inclusions: asymptotics of spectra"
+    },
+    {
+      "id": "2107.05177",
+      "title": "Asymptotic stability of planar stationary solution to a 2d hyperbolic-elliptic coupled system of the radiating gas in half space"
+    },
+    {
+      "id": "2112.04859",
+      "title": "Small oscillations of a vortex ring: hamiltonian formalism and quantization"
+    },
+    {
+      "id": "2201.07822",
+      "title": "Corrector results for space-time homogenization of nonlinear diffusion"
+    },
+    {
+      "id": "2201.07860",
+      "title": "Phase separating solutions for two component systems in general planar domains"
+    },
+    {
+      "id": "2201.07953",
+      "title": "Shape-morphing reduced-order models for nonlinear schrodinger equations"
+    },
+    {
+      "id": "2201.07957",
+      "title": "Vacuum and singularity formation for compressible euler equations with time-dependent damping"
+    },
+    {
+      "id": "2201.08090",
+      "title": "Boundary superconductivity in the bcs model"
+    },
+    {
+      "id": "2201.08094",
+      "title": "Stability of smooth solitary waves in the b-camassa-holm equation"
+    },
+    {
+      "id": "2201.08107",
+      "title": "A proof of the uniqueness of the limit cycle of a quasi-homogeneous system"
+    },
+    {
+      "id": "2201.08145",
+      "title": "Scattering and blow-up for chern-simons-schr\\\"odinger equations in the mass supercritical cas"
+    },
+    {
+      "id": "2201.08161",
+      "title": "Almost sure existence of global weak solutions for supercritical electron mhd"
+    },
+    {
+      "id": "2201.08165",
+      "title": "Orbital stability of periodic standing waves for the cubic fractional nonlinear schrodinger equation"
+    },
+    {
+      "id": "2201.08189",
+      "title": "Sharp resolvent estimate for the baouendi-grushin operator and applications"
+    },
+    {
+      "id": "2201.08216",
+      "title": "On the boundedness of the global solution of $(aqg)$ equations in sobolev space"
+    },
+    {
+      "id": "2201.08229",
+      "title": "Derivation of the linear boltzmann equation from the damped quantum lorentz gas with a general scatterer configuration"
+    },
+    {
+      "id": "2201.08232",
+      "title": "Existence, uniqueness and stability of steady vortex rings of small cross-section"
+    },
+    {
+      "id": "2201.08259",
+      "title": "Spectral gap for obstacle scattering in dimension 2"
+    },
+    {
+      "id": "2201.08280",
+      "title": "Global stability of minkowski spacetime for a spin-1/2 field"
+    },
+    {
+      "id": "2201.08286",
+      "title": "Classical yang-baxter equation, lagrangian multiforms and ultralocal integrable hierarchies"
+    },
+    {
+      "id": "2201.08292",
+      "title": "Long time decay of leray solution of 3d-nse with exponential damping"
+    },
+    {
+      "id": "1809.01098",
+      "title": "Mean fields and fluctuations in compressible magnetohydrodynamic flows"
+    },
+    {
+      "id": "2008.08388",
+      "title": "Stabilisation of exact coherent structures in two-dimensional turbulence using time-delayed feedback"
+    },
+    {
+      "id": "2103.12110",
+      "title": "Non-fermi liquid behavior in the sachdev-ye-kitaev model for a one dimensional incoherent semimetal"
+    },
+    {
+      "id": "2106.08715",
+      "title": "Solution to waves in dissipative media with reciprocal attenuation in time and space domains"
+    },
+    {
+      "id": "2201.07900",
+      "title": "About conditions of spatial collapse in an infinite system of bose particles"
+    },
+    {
+      "id": "2201.08056",
+      "title": "Multivariable evolution in final state parton shower algorithms"
+    },
+    {
+      "id": "2201.08338",
+      "title": "A reciprocal theorem for finite deformations in incompressible bodies"
+    }
+  ],
+  "#9: ray ; emission ; data ; energy ; using:": [
+    {
+      "id": "1909.06296",
+      "title": "Bayesian parameter estimation using conditional variational autoencoders for gravitational-wave astronomy"
+    },
+    {
+      "id": "2101.11854",
+      "title": "Similarities and differences in accretion flow properties between grs 1915+105 and igr j17091-3624: a case study"
+    },
+    {
+      "id": "2102.10738",
+      "title": "Removing atmospheric fringes from zwicky transient facility i-band images using principal component analysis"
+    },
+    {
+      "id": "2107.02604",
+      "title": "Reconstructing the neutrino energy for in-ice radio detectors"
+    },
+    {
+      "id": "2107.12787",
+      "title": "Mapping the cosmic expansion history from ligo-virgo-kagra in synergy with desi and spherex"
+    },
+    {
+      "id": "2108.08527",
+      "title": "Limits on astrophysical antineutrinos with the kamland experiment"
+    },
+    {
+      "id": "2109.02591",
+      "title": "Operation and performance of the atlas semiconductor tracker in lhc run 2"
+    },
+    {
+      "id": "2110.10327",
+      "title": "Blemab european project: muon imaging technique applied to blast furnaces"
+    },
+    {
+      "id": "2111.07476",
+      "title": "Fast radio burst distributions consistent with the first chime/frb catalog"
+    },
+    {
+      "id": "2112.04194",
+      "title": "Multiwavelength variability power spectrum analysis of the blazars 3c 279 and pks 1510-089 on multiple timescales"
+    },
+    {
+      "id": "2112.11727",
+      "title": "Charge and temporal characterisation of silicon sensors using a two-photon absorption laser"
+    },
+    {
+      "id": "2201.01663",
+      "title": "Percent-level constraints on baryonic feedback with spectral distortion measurements"
+    },
+    {
+      "id": "2201.03796",
+      "title": "Ultrahigh-energy gamma-ray radiation from the crab pulsar wind nebula"
+    },
+    {
+      "id": "2201.07803",
+      "title": "Host dark matter halos of sdss red and blue quasars: no significant difference in large-scale environment"
+    },
+    {
+      "id": "2201.07820",
+      "title": "Submillimeter pulsations from the magnetar xte j1810-197"
+    },
+    {
+      "id": "2201.07832",
+      "title": "High-resolution observations with artemis/jls and the nrh: iv. imaging spectroscopy of spike-like structures near the front of type-ii bursts"
+    },
+    {
+      "id": "2201.07846",
+      "title": "In situ, broadband measurement of the radio frequency attenuation length at summit station, greenland"
+    },
+    {
+      "id": "2201.07869",
+      "title": "An overview of chime, the canadian hydrogen intensity mapping experiment"
+    },
+    {
+      "id": "2201.07901",
+      "title": "Extending the lorentz factor range and sensitivity of transition radiation with compound radiators"
+    },
+    {
+      "id": "2201.07970",
+      "title": "Decomposing magnetic fields in three dimensions over the central molecular zone"
+    },
+    {
+      "id": "2201.08043",
+      "title": "V608 cassiopeiae: a w uma-type eclipsing binary with two possible circumbinary companions"
+    },
+    {
+      "id": "2201.08103",
+      "title": "Mirror production for the cherenkov telescopes of the astri mini-array and of the mst project for the cherenkov telescope array"
+    },
+    {
+      "id": "2201.08143",
+      "title": "Physical constraints on the extended interstellar medium of the z=6.42 quasar j1148+5251: [cii] 158um, [nii] 205um and [oi] 146um observations"
+    },
+    {
+      "id": "2201.08148",
+      "title": "Tev and kev-mev excesses as probes for hadronic process in bl lacertaes"
+    },
+    {
+      "id": "2201.08205",
+      "title": "Machine learning to decipher the astrophysical processes at cosmic dawn"
+    },
+    {
+      "id": "2201.08320",
+      "title": "Comparing weak lensing peak counts in baryonic correction models to hydrodynamical simulations"
+    }
+  ],
+  "#10: language ; model ; models ; data ; based:": [
+    {
+      "id": "2008.06865",
+      "title": "Discovering lexical similarity through articulatory feature-based phonetic edit distance"
+    },
+    {
+      "id": "2102.00881",
+      "title": "Gamified crowdsourcing for idiom corpora construction"
+    },
+    {
+      "id": "2105.01044",
+      "title": "Goldilocks: just-right tuning of bert for technology-assisted review"
+    },
+    {
+      "id": "2106.11796",
+      "title": "End-to-end task-oriented dialog modeling with semi-structured knowledge management"
+    },
+    {
+      "id": "2109.04137",
+      "title": "Fusing task-oriented and open-domain dialogues in conversational agents"
+    },
+    {
+      "id": "2111.10951",
+      "title": "Can depth-adaptive bert perform better on binary classification tasks"
+    },
+    {
+      "id": "2201.05966",
+      "title": "Unifiedskg: unifying and multi-tasking structured knowledge grounding with text-to-text language models"
+    },
+    {
+      "id": "2201.06771",
+      "title": "Taxocom: topic taxonomy completion with hierarchical discovery of novel topic clusters"
+    },
+    {
+      "id": "2201.07365",
+      "title": "Improving neural machine translation by denoising training"
+    },
+    {
+      "id": "2201.07899",
+      "title": "Asl video corpora & sign bank: resources available through the american sign language linguistic research project (asllrp)"
+    },
+    {
+      "id": "2201.07902",
+      "title": "Evaluating machine common sense via cloze testing"
+    },
+    {
+      "id": "2201.07905",
+      "title": "Cptam: constituency parse tree aggregation method"
+    },
+    {
+      "id": "2201.07906",
+      "title": "The role of facial expressions and emotion in asl"
+    },
+    {
+      "id": "2201.07984",
+      "title": "Astbert: enabling language model for code understanding with abstract syntax tree"
+    },
+    {
+      "id": "2201.08054",
+      "title": "Visa: an ambiguous subtitles dataset for visual scene-aware machine translation"
+    },
+    {
+      "id": "2201.08070",
+      "title": "Linguistically-driven multi-task pre-training for low-resource neural machine translation"
+    },
+    {
+      "id": "2201.08071",
+      "title": "The elements of temporal sentence grounding in videos: a survey and future directions"
+    },
+    {
+      "id": "2201.08081",
+      "title": "Lemon: language-based environment manipulation via execution-guided pre-training"
+    },
+    {
+      "id": "2201.08089",
+      "title": "Why did you not compare with that? identifying papers for use as baselines"
+    },
+    {
+      "id": "2201.08125",
+      "title": "Deep unsupervised contrastive hashing for large-scale cross-modal text-image retrieval in remote sensing"
+    },
+    {
+      "id": "2201.08214",
+      "title": "A latent-variable model for intrinsic probing"
+    },
+    {
+      "id": "2201.08217",
+      "title": "Watermarking pre-trained encoders in contrastive learning"
+    },
+    {
+      "id": "2201.08239",
+      "title": "Lamda: language models for dialog applications"
+    },
+    {
+      "id": "2201.08277",
+      "title": "Naijasenti: a nigerian twitter sentiment corpus for multilingual sentiment analysis"
+    },
+    {
+      "id": "2201.08310",
+      "title": "Meta learning for code summarization"
+    }
+  ],
+  "#11: image ; images ; based ; model ; methods:": [
+    {
+      "id": "1911.00666",
+      "title": "Progressive sample mining and representation learning for one-shot person re-identification with adversarial samples"
+    },
+    {
+      "id": "2102.04780",
+      "title": "Diverse single image generation with controllable global structure"
+    },
+    {
+      "id": "2106.11944",
+      "title": "Metaavatar: learning animatable clothed human models from few depth images"
+    },
+    {
+      "id": "2110.03234",
+      "title": "Self-supervised depth completion for active stereo"
+    },
+    {
+      "id": "2201.03674",
+      "title": "Printsgan: synthetic fingerprint generator"
+    },
+    {
+      "id": "2201.06616",
+      "title": "Improving the quality control of seismic data through active learning"
+    },
+    {
+      "id": "2201.07927",
+      "title": "Learning-by-novel-view-synthesis for full-face appearance-based 3d gaze estimation"
+    },
+    {
+      "id": "2201.07929",
+      "title": "Estimating egocentric 3d human pose in the wild with external weak supervision"
+    },
+    {
+      "id": "2201.07937",
+      "title": "Gascn: graph attention shape completion network"
+    },
+    {
+      "id": "2201.08002",
+      "title": "Prmi: a dataset of minirhizotron images for diverse plant root study"
+    },
+    {
+      "id": "2201.08046",
+      "title": "Dfbvs: deep feature-based visual servo"
+    },
+    {
+      "id": "2201.08050",
+      "title": "Tervit: an efficient ternary vision transformer"
+    },
+    {
+      "id": "2201.08098",
+      "title": "What can we learn from misclassified imagenet images?"
+    },
+    {
+      "id": "2201.08126",
+      "title": "Reversible data hiding in encrypted images by lossless pixel conversion"
+    },
+    {
+      "id": "2201.08131",
+      "title": "Geofill: reference-based image inpainting of scenes with complex geometry"
+    },
+    {
+      "id": "2201.08142",
+      "title": "Physically embodied deep image optimisation"
+    },
+    {
+      "id": "2201.08157",
+      "title": "Wppnets: unsupervised cnn training with wasserstein patch priors for image superresolution"
+    },
+    {
+      "id": "2201.08158",
+      "title": "Humanibr: high quality image-based rendering of challenging human performers using sparse views"
+    },
+    {
+      "id": "2201.08377",
+      "title": "Omnivore: a single model for many visual modalities"
+    },
+    {
+      "id": "2109.09640",
+      "title": "Report on the aapm deep-learning sparse-view ct (dl-sparse-view ct) grand challenge"
+    },
+    {
+      "id": "2103.03370",
+      "title": "Multi-task learning with high-dimensional noisy images"
+    }
+  ],
+  "#12: data ; time ; performance ; based ; network:": [
+    {
+      "id": "2002.08987",
+      "title": "Taurus: a data plane architecture for per-packet ml"
+    },
+    {
+      "id": "2008.02352",
+      "title": "Efficient migrations between storage tiers with prismdb"
+    },
+    {
+      "id": "2109.12626",
+      "title": "A doubly-pipelined, dual-root reduction-to-all algorithm and implementation"
+    },
+    {
+      "id": "2110.02670",
+      "title": "S-extension patch: a simple and efficient way to extend an object detection model"
+    },
+    {
+      "id": "2201.07521",
+      "title": "Thorfi: a novel approach for network fault injection as a service"
+    },
+    {
+      "id": "2201.07845",
+      "title": "How iso c became unusable for operating systems development"
+    },
+    {
+      "id": "2201.07916",
+      "title": "Prompt: learning dynamic resource allocation policies for edge-network applications"
+    },
+    {
+      "id": "2201.07993",
+      "title": "Serializable htap with abort-/wait-free snapshot read"
+    },
+    {
+      "id": "2201.08163",
+      "title": "Cognitive ledger project: towards building personal digital twins through cognitive blockchain"
+    },
+    {
+      "id": "2201.08166",
+      "title": "Gvsoc: a highly configurable, fast and accurate full-platform simulator for risc-v based iot processors"
+    },
+    {
+      "id": "2201.08182",
+      "title": "Optimization of traffic control in mmap[k]/ph[k]/s catastrophic queueing model with ph retrial times and preemptive repeat policy"
+    },
+    {
+      "id": "2201.08201",
+      "title": "Providing upgrade plans for third-party libraries: a recommender system using migration graphs"
+    },
+    {
+      "id": "2201.08226",
+      "title": "Sketch-and-lift: scalable subsampled semidefinite program for $k$-means clustering"
+    },
+    {
+      "id": "2201.08228",
+      "title": "High performance parallel i/o and in-situ analysis in the wrf model with adios2"
+    },
+    {
+      "id": "2201.08230",
+      "title": "A brief analysis of the apollo guidance computer"
+    },
+    {
+      "id": "2201.08308",
+      "title": "The energy-delay pareto front in cache-enabled integrated access and backhaul mmwave hetnets"
+    },
+    {
+      "id": "2201.08322",
+      "title": "Error-and-erasure decoding of product and staircase codes with simplified extrinsic message passing"
+    },
+    {
+      "id": "2201.08378",
+      "title": "Adelie: continuous address space layout re-randomization for linux drivers"
+    },
+    {
+      "id": "2201.07855",
+      "title": "Parallel server systems under an extended heavy traffic condition: a lower bound"
+    },
+    {
+      "id": "2201.08119",
+      "title": "Fpga-based real-time data processing for accelerating reconstruction at lhcb"
+    },
+    {
+      "id": "2201.06604",
+      "title": "A tool set for random number generation on gpus in r"
+    }
+  ],
+  "#13: spin ; magnetic ; field ; phase ; temperature:": [
+    {
+      "id": "2110.10890",
+      "title": "Physics-based models for magneto-electric spin-orbit logic circuits"
+    },
+    {
+      "id": "1903.08081",
+      "title": "Kitaev quantum spin liquid - concept and materialization"
+    },
+    {
+      "id": "2105.05780",
+      "title": "Long-range interaction of magnetic moments in a coupled system of s/f/s josephson junctions with anomalous ground-state phase shift"
+    },
+    {
+      "id": "2107.01444",
+      "title": "The sagnac effect for spin-$1/2$ particles through local wigner rotations"
+    },
+    {
+      "id": "2108.10063",
+      "title": "Z$_2$ nontrivial topology of rare-earth binary oxide superconductor"
+    },
+    {
+      "id": "2109.01505",
+      "title": "Mechanisms of the in-plane magnetic anisotropy in superconducting nbse2"
+    },
+    {
+      "id": "2110.08502",
+      "title": "Quark spin-orbit correlations in the pion meson in light-cone quark model"
+    },
+    {
+      "id": "2110.15630",
+      "title": "Anomalous spin polarization from turbulent color fields"
+    },
+    {
+      "id": "2111.07206",
+      "title": "Gap resonance in the classical dynamics of the current-biased josephson tunnel junctions"
+    },
+    {
+      "id": "2111.08376",
+      "title": "Optical sensing of magnons via the magnetoelastic displacement"
+    },
+    {
+      "id": "2201.02294",
+      "title": "Spin order and fluctuations in the eual$_4$ and euga$_4$ topological antiferromagnets: a $\\mu$sr study"
+    },
+    {
+      "id": "2201.02505",
+      "title": "Nonlinear magnetotransport in weyl semimetal"
+    },
+    {
+      "id": "2201.03781",
+      "title": "Nonreciprocal dynamics of ferrimagnetic bimerons"
+    },
+    {
+      "id": "2201.07780",
+      "title": "Mixed dimensional transport in csv$_3$sb$_5$ single crystals"
+    },
+    {
+      "id": "2201.07826",
+      "title": "Controlling magnetic frustration in 1t-tas$_2$ via coulomb engineered long-range interactions"
+    },
+    {
+      "id": "2201.07848",
+      "title": "Supercurrent in the presence of direct transmission and a resonant localized state"
+    },
+    {
+      "id": "2201.07995",
+      "title": "Correlation strength, orbital-selective incoherence, and local moments formation in the magnetic max-phase mn$_2$gac"
+    },
+    {
+      "id": "2201.08108",
+      "title": "Ubiquitous coexisting electron-mode couplings in high temperature cuprate superconductors"
+    },
+    {
+      "id": "2201.08127",
+      "title": "Brillouin zone doubling causes fermion doubling for a staggered lattice discretization of the dirac equation"
+    },
+    {
+      "id": "2201.08252",
+      "title": "Different critical behaviors in cubic to trigonal and tetragonal perovskites"
+    },
+    {
+      "id": "2201.08334",
+      "title": "Small-angle neutron scattering by spatially inhomogeneous ferromagnets with a nonzero average uniaxial anisotropy"
+    }
+  ],
+  "#14: paper ; space ; results ; using ; problem:": [
+    {
+      "id": "2006.14232",
+      "title": "Density of binary disc packings: playing with stoichiometry"
+    },
+    {
+      "id": "2105.03297",
+      "title": "Elimination of ringing artifacts by finite-element projection in fft-based homogenization"
+    },
+    {
+      "id": "2201.07890",
+      "title": "Convolutional neural networks for spherical signal processing via spherical haar tight framelets"
+    },
+    {
+      "id": "2201.08005",
+      "title": "Fresco: mining frequent patterns in simplicial complexes"
+    },
+    {
+      "id": "1812.10361",
+      "title": "On contact invariants of non-simply connected gorenstein toric contact manifolds"
+    },
+    {
+      "id": "2012.12719",
+      "title": "Moduli stacks of (phi,gamma)-modules: a survey"
+    },
+    {
+      "id": "2102.12955",
+      "title": "On the closure property of lepage equivalents of lagrangians"
+    },
+    {
+      "id": "2107.13861",
+      "title": "Ribbon decomposition and twisted hurwitz numbers"
+    },
+    {
+      "id": "2108.06285",
+      "title": "The geometry of spectral interlacing"
+    },
+    {
+      "id": "2201.02050",
+      "title": "Max/min puzzles in geometry"
+    },
+    {
+      "id": "2201.07974",
+      "title": "Two non-congruent regular polygons having vertices at the same distances from the point"
+    },
+    {
+      "id": "2201.08104",
+      "title": "Compactifying the rank two hitchin system via spectral data on semistable curves"
+    },
+    {
+      "id": "2201.08190",
+      "title": "Topology optimization on complex surfaces based on the moving morphable components (mmcs) method and computational conformal mapping (ccm)"
+    },
+    {
+      "id": "2201.08352",
+      "title": "Max/min puzzles in geometry ii"
+    },
+    {
+      "id": "2012.03287",
+      "title": "Finite-size analysis of the collapse of dry granular columns"
+    },
+    {
+      "id": "2112.06335",
+      "title": "On calabi-yau manifolds in weighted projective spaces and their mirror glsms"
+    },
+    {
+      "id": "2112.12862",
+      "title": "On soliton solutions and soliton interactions of kulish-sklyanin and hirota-ohta systems"
+    },
+    {
+      "id": "2201.07068",
+      "title": "Particle generation through restrictive planes in geant4 simulations for potential applications of cosmic ray muon tomography"
+    },
+    {
+      "id": "2201.08109",
+      "title": "Interlaced wire medium with quasicrystal lattice"
+    },
+    {
+      "id": "2201.08211",
+      "title": "Representing geographic space as a hierarchy of recursively defined subspaces for computing the degree of order"
+    }
+  ],
+  "#15: time ; model ; systems ; dynamics ; non:": [
+    {
+      "id": "2201.07934",
+      "title": "Complexity from adaptive-symmetries breaking: global minima in the statistical mechanics of deep neural networks"
+    },
+    {
+      "id": "2201.07955",
+      "title": "Numerical simulation of singularity propagation modeled by linear convection equations with spatially heterogeneous nonlocal interactions"
+    },
+    {
+      "id": "2103.11242",
+      "title": "Persistent strange attractors in 3d polymatrix replicators"
+    },
+    {
+      "id": "2105.09138",
+      "title": "Distribution of kinks in an ising ferromagnet after annealing and the generalized kibble-zurek mechanism"
+    },
+    {
+      "id": "2201.08010",
+      "title": "Renormalization of stochastic nonlinear heat and wave equations driven by subordinate cylindrical brownian noises"
+    },
+    {
+      "id": "2201.08301",
+      "title": "Sloppy model analysis unambiguously identifies bifurcation parameters of all commontypes of bifurcations"
+    },
+    {
+      "id": "2011.09901",
+      "title": "Development of a stochastic interpretation of quantum mechanics by e. nelson. derivation of the schrodinger-euler-poisson equations"
+    },
+    {
+      "id": "2107.11395",
+      "title": "Signatures of multifractality in a periodically driven interacting aubry-andr\\'{e} model"
+    },
+    {
+      "id": "2109.08639",
+      "title": "Synchronization in cilia carpets and the kuramoto model with local coupling: breakup of global synchronization in the presence of noise"
+    },
+    {
+      "id": "2109.14319",
+      "title": "Path integral and instantons for the process and phase transition rate of the rnads black hole"
+    },
+    {
+      "id": "2110.12760",
+      "title": "Emergence of oscillations in fixed energy sandpile models on complex networks"
+    },
+    {
+      "id": "2111.08677",
+      "title": "Thermodynamic control of activity patterns in cytoskeletal networks"
+    },
+    {
+      "id": "2201.07922",
+      "title": "Non-gaussian effects of the saha's ionization in the early universe"
+    },
+    {
+      "id": "2201.07966",
+      "title": "Social fr\\\"ohlich condensation: preserving societal order through sufficiently intensive information pumping"
+    },
+    {
+      "id": "2201.07979",
+      "title": "Shape dynamics and the universe: foundations and implications"
+    },
+    {
+      "id": "2201.08011",
+      "title": "On models to describe the volume in the context of establishing high pressure gibbs energy databases"
+    },
+    {
+      "id": "2201.08083",
+      "title": "Classifying basins of attraction using the basin entropy"
+    },
+    {
+      "id": "2201.08130",
+      "title": "Suppression of inter-band heating for random driving"
+    },
+    {
+      "id": "2201.08220",
+      "title": "Bubble wall dynamics at the electroweak phase transition"
+    },
+    {
+      "id": "2201.08324",
+      "title": "Differential configurational entropy and the gravitational collapse of a kink"
+    }
+  ],
+  "#16: algebras ; group ; algebra ; groups ; theory:": [
+    {
+      "id": "1805.11005",
+      "title": "Many different uniformity numbers of yorioka ideals"
+    },
+    {
+      "id": "1908.10750",
+      "title": "Generalised taft algebras and pairs in involution"
+    },
+    {
+      "id": "2002.04378",
+      "title": "Local behaviour of sequences of three-dimensional generalised monopoles"
+    },
+    {
+      "id": "2010.05676",
+      "title": "The nakayama functor and its completion for gorenstein algebras"
+    },
+    {
+      "id": "2012.02289",
+      "title": "Reinhardt free spectrahedra"
+    },
+    {
+      "id": "2012.12359",
+      "title": "Topological k-theory for discrete groups and index theory"
+    },
+    {
+      "id": "2112.03861",
+      "title": "From weyl groups to semisimple groups"
+    },
+    {
+      "id": "2201.03284",
+      "title": "Truncated affine rozansky--witten models as extended tqfts"
+    },
+    {
+      "id": "2201.05542",
+      "title": "The homotopy category of acyclic complexes of pure-projective modules"
+    },
+    {
+      "id": "2201.08000",
+      "title": "Frobenius functors, stable equivalences and $k$-theory of gorenstein projective modules"
+    },
+    {
+      "id": "2201.08015",
+      "title": "Hodge theory and higgs bundle on moduli spaces of smooth varieties with semi-ample canonical line bundles, negativity and hyperbolicity"
+    },
+    {
+      "id": "2201.08036",
+      "title": "Distributive and lower-modular elements of the lattice of monoid varieties"
+    },
+    {
+      "id": "2201.08055",
+      "title": "On the relative opers in dimension one"
+    },
+    {
+      "id": "2201.08198",
+      "title": "Co-universal $c^{\\ast}$-algebras for product systems over quasi-lattice ordered groupoids"
+    },
+    {
+      "id": "2201.08199",
+      "title": "Surreal fields stable under exponential and logarithmic functions"
+    },
+    {
+      "id": "2201.08206",
+      "title": "K-pareto optimality-based sorting with maximization of choice"
+    },
+    {
+      "id": "2201.08260",
+      "title": "Hodge-de rham numbers of almost complex 4-manifolds"
+    },
+    {
+      "id": "2201.08329",
+      "title": "Rigidity and automorphisms of large-type artin groups"
+    },
+    {
+      "id": "2201.08351",
+      "title": "Bps invariants for a knot in seifert manifolds"
+    },
+    {
+      "id": "2107.12133",
+      "title": "Complete one-loop matching of the type-i seesaw model onto the standard model effective field theory"
+    }
+  ],
+  "#17: mathbb ; space ; manifold ; mathcal ; manifolds:": [
+    {
+      "id": "1702.06769",
+      "title": "On line colorings of finite projective spaces"
+    },
+    {
+      "id": "2004.04654",
+      "title": "On the growth rate of geodesic chords"
+    },
+    {
+      "id": "2005.03689",
+      "title": "Moduli of linear slices of high degree hypersurfaces"
+    },
+    {
+      "id": "2007.07416",
+      "title": "On metric spaces with given transfinite asymptotic dimensions"
+    },
+    {
+      "id": "2009.11004",
+      "title": "Minimax periodic orbits of convex lagrangian systems on complete riemannian manifolds"
+    },
+    {
+      "id": "2010.07187",
+      "title": "A minkowski inequality for the static einstein-maxwell space-time"
+    },
+    {
+      "id": "2012.08310",
+      "title": "On finite generation of fiber ring of invariant jet differentials"
+    },
+    {
+      "id": "2102.13528",
+      "title": "Entropy of logarithmic modes"
+    },
+    {
+      "id": "2103.11523",
+      "title": "Lipschitz normally embedded set and tangent cones at infinity"
+    },
+    {
+      "id": "2106.02823",
+      "title": "Revisiting kepler: new symmetries of an old problem"
+    },
+    {
+      "id": "2109.00438",
+      "title": "Curvature-free linear length bounds on geodesics in closed riemannian surfaces"
+    },
+    {
+      "id": "2112.00097",
+      "title": "A product model for generalizing poincar\\'e-type k\\\"ahler metrics"
+    },
+    {
+      "id": "2201.07852",
+      "title": "Nonnegative ricci curvature, metric cones, and virtual abelianness"
+    },
+    {
+      "id": "2201.07952",
+      "title": "Some fano manifolds whose hilbert polynomial is totally reducible over $\\mathbb q$"
+    },
+    {
+      "id": "2201.08077",
+      "title": "Spectral properties of the neumann-poincar\\'e operator on rotationally symmetric domains in two dimensions"
+    },
+    {
+      "id": "2201.08134",
+      "title": "Almost maximal volume entropy rigidity for integral ricci curvature in the non-collapsing case"
+    },
+    {
+      "id": "2201.08192",
+      "title": "Self-adjointness for the mit bag model on an unbounded cone"
+    },
+    {
+      "id": "2201.08222",
+      "title": "A note on composition operators between weighted spaces of smooth functions"
+    },
+    {
+      "id": "2201.08244",
+      "title": "Quantum geodesic flows and curvature"
+    }
+  ],
+  "#18: mathbb ; omega ; mathcal ; prove ; function:": [
+    {
+      "id": "2001.04447",
+      "title": "Scattering and sparse partitions, and their applications"
+    },
+    {
+      "id": "1809.01325",
+      "title": "Parabolic systems with measurable coefficients in weighted sobolev spaces"
+    },
+    {
+      "id": "1904.09886",
+      "title": "Existence and regularity of infinitesimally invariant measures, transition functions and time homogeneous it\\^o-sdes"
+    },
+    {
+      "id": "1912.08075",
+      "title": "The compression method and applications"
+    },
+    {
+      "id": "2006.06811",
+      "title": "Sublinear circuits and the constrained signomial nonnegativity problem"
+    },
+    {
+      "id": "2006.07354",
+      "title": "On global invertibility of semi-algebraic local diffeomorphisms"
+    },
+    {
+      "id": "2012.09024",
+      "title": "Invariant jet differentials and asymptotic serre duality"
+    },
+    {
+      "id": "2104.05484",
+      "title": "Viscosity solutions to complex first eigenvalue equations"
+    },
+    {
+      "id": "2108.01271",
+      "title": "On $n$-tuplewise ip-sensitivity and thick sensitivity"
+    },
+    {
+      "id": "2112.01385",
+      "title": "Uniform tur\\'an density of cycles"
+    },
+    {
+      "id": "2201.07827",
+      "title": "On an anisotropic fractional stefan-type problem with dirichlet boundary conditions"
+    },
+    {
+      "id": "2201.08159",
+      "title": "Exhaustive existence and non-existence results for hardy-h\\'enon equations in $\\mathbf r^n$"
+    },
+    {
+      "id": "2201.08178",
+      "title": "Bkp hierarchy, affine coordinates, and a formula for connected bosonic $n$-point functions"
+    },
+    {
+      "id": "2201.08223",
+      "title": "Sharpness of bernoulli percolation via couplings"
+    },
+    {
+      "id": "2201.08271",
+      "title": "Isomorphic classification of projective tensor products of spaces of continuous functions"
+    },
+    {
+      "id": "2201.08327",
+      "title": "A research note"
+    },
+    {
+      "id": "2105.10824",
+      "title": "A penrose limit for type iib $ads_6$ solutions"
+    },
+    {
+      "id": "2109.14972",
+      "title": "Anomalous scaling and first-order dynamical phase transition in large deviations of the ornstein-uhlenbeck process"
+    }
+  ],
+  "#19: mathbb ; mathcal ; mathfrak ; algebras ; algebra:": [
+    {
+      "id": "2201.08242",
+      "title": "Non-minimum tensor rank gabidulin codes"
+    },
+    {
+      "id": "2008.07287",
+      "title": "Fock space of level infinity and characters of vertex operators"
+    },
+    {
+      "id": "2010.14172",
+      "title": "On the hofer-zehnder conjecture on $\\mathbb{c}\\text{p}^d$ via generating functions (with an appendix by egor shelukhin)"
+    },
+    {
+      "id": "2011.02430",
+      "title": "On multipliers of pairs of lie superalgebras"
+    },
+    {
+      "id": "2012.07203",
+      "title": "Lectures on dualities abc in representation theory"
+    },
+    {
+      "id": "2107.06746",
+      "title": "The witt classes of $so(2r)_{2r}$"
+    },
+    {
+      "id": "2107.14238",
+      "title": "Non-semisimple tqft's and bps q-series"
+    },
+    {
+      "id": "2109.01512",
+      "title": "The additivity of traces in stable $\\infty$-categories"
+    },
+    {
+      "id": "2111.13616",
+      "title": "A dichotomy for topological full groups"
+    },
+    {
+      "id": "2201.01023",
+      "title": "Vanishing of (co)homology of burch and related submodules"
+    },
+    {
+      "id": "2201.07956",
+      "title": "Ricci solitons with an orthogonally intransitive 2-dimensional abelian killing algebra"
+    },
+    {
+      "id": "2201.08016",
+      "title": "The stable category of preorders in a pretopos ii: the universal property"
+    },
+    {
+      "id": "2201.08047",
+      "title": "Magnitude homology and path homology"
+    },
+    {
+      "id": "2201.08065",
+      "title": "Comparison between admissible and de jong coverings of rigid analytic spaces in mixed characteristic"
+    },
+    {
+      "id": "2201.08152",
+      "title": "Computing riemann-roch polynomials and classifying hyper-k\\\"ahler fourfolds"
+    },
+    {
+      "id": "2201.08346",
+      "title": "$l_p$-$l_q$ fourier multipliers on locally compact quantum groups"
+    },
+    {
+      "id": "2112.05608",
+      "title": "Charges and fluxes on (perturbed) non-expanding horizons"
+    },
+    {
+      "id": "2112.14765",
+      "title": "Cobordism and deformation class of the standard model"
+    }
+  ],
+  "#20: gravity ; field ; theory ; energy ; spacetime:": [
+    {
+      "id": "2108.13324",
+      "title": "Scalar-tensor cosmologies in a minisuperspace formulation: a case study"
+    },
+    {
+      "id": "1907.07824",
+      "title": "Derivation of holographic negativity in ads$_3$/cft$_2$"
+    },
+    {
+      "id": "2009.00160",
+      "title": "Calculations in induced gravity from higher-derivative field theories"
+    },
+    {
+      "id": "2104.11362",
+      "title": "Spontaneous scalarization in scalar-tensor theories with conformal symmetry as an attractor"
+    },
+    {
+      "id": "2105.13529",
+      "title": "New conserved tensors and brans-dicke type field equation, using integrability condition"
+    },
+    {
+      "id": "2107.07036",
+      "title": "Nonlinear dynamics of oscillating neutron stars in scalar-tensor gravity"
+    },
+    {
+      "id": "2110.04087",
+      "title": "Black holes in $f(t,b)$ gravity: exact and perturbed solutions"
+    },
+    {
+      "id": "2110.04594",
+      "title": "The ghost of vector fields in compact stars"
+    },
+    {
+      "id": "2111.02147",
+      "title": "Primordial helical magnetic fields from inflation?"
+    },
+    {
+      "id": "2201.07813",
+      "title": "The asymptotic structure of gravity in higher even dimensions"
+    },
+    {
+      "id": "2201.07829",
+      "title": "Inferring $s_8(z)$ and $\\gamma(z)$ with cosmic growth rate measurements using machine learning"
+    },
+    {
+      "id": "2201.07961",
+      "title": "Shear viscosity from black holes in generalized scalar-tensor theories in arbitrary dimensions"
+    },
+    {
+      "id": "2201.07971",
+      "title": "On circular orbits in einstein's theory of gravitation"
+    },
+    {
+      "id": "2201.08181",
+      "title": "Axial anomaly in the gradient flow exact renormalization group"
+    },
+    {
+      "id": "2201.08251",
+      "title": "Why should we search for vector-like leptons?"
+    },
+    {
+      "id": "2201.08293",
+      "title": "Quantum gravitational corrections to the entropy of a reissner-nordstr\\\"om black hole"
+    },
+    {
+      "id": "2201.08380",
+      "title": "The weak gravity conjecture: a review"
+    },
+    {
+      "id": "hep-th/0406045",
+      "title": "Generating a dynamical m2 brane from super-gravitons in a pp-wave background"
+    }
+  ],
+  "#21: robot ; robots ; control ; based ; model:": [
+    {
+      "id": "2005.09127",
+      "title": "Synchronized multi-arm rearrangement guided by mode graphs with capacity constraints"
+    },
+    {
+      "id": "2103.06417",
+      "title": "3d head-position prediction in first-person view by considering head pose for human-robot eye contact"
+    },
+    {
+      "id": "2103.08105",
+      "title": "Mbapose: mask and bounding-box aware pose estimation of surgical instruments with photorealistic domain randomization"
+    },
+    {
+      "id": "2106.08250",
+      "title": "Constrained motion planning of a cable-driven soft robot with compressible curvature modeling"
+    },
+    {
+      "id": "2201.07779",
+      "title": "Look closer: bridging egocentric and third-person views with transformers for robotic manipulation"
+    },
+    {
+      "id": "2201.07834",
+      "title": "Adaptive b\\'ezier degree reduction and splitting for computationally efficient motion planning"
+    },
+    {
+      "id": "2201.07865",
+      "title": "Pipe climbing robot"
+    },
+    {
+      "id": "2201.07882",
+      "title": "An automated robotic arm: a machine learning approach"
+    },
+    {
+      "id": "2201.07885",
+      "title": "Octopuses: biological facts and technical solutions"
+    },
+    {
+      "id": "2201.07928",
+      "title": "Complex in-hand manipulation via compliance-enabled finger gaiting and multi-modal planning"
+    },
+    {
+      "id": "2201.07990",
+      "title": "Effect of human involvement on work performance and fluency in human-robot collaboration for recycling"
+    },
+    {
+      "id": "2201.08117",
+      "title": "Learning robust perceptive locomotion for quadrupedal robots in the wild"
+    },
+    {
+      "id": "2201.08141",
+      "title": "Spams: structured implicit parametric models"
+    },
+    {
+      "id": "2201.08162",
+      "title": "An automatic control system with human-in-the-loop for training skydiving maneuvers: proof-of-concept experiment"
+    },
+    {
+      "id": "2201.08177",
+      "title": "Category-association based similarity matching for novel object pick-and-place task"
+    },
+    {
+      "id": "2005.06592",
+      "title": "Motioning connected subgraphs into a graph"
+    },
+    {
+      "id": "2112.09740",
+      "title": "Locomotion without force, and impulse via dissipation: robotic swimming in curved space via geometric phase"
+    }
+  ],
+  "#22: prove ; set ; paper ; number ; results:": [
+    {
+      "id": "2103.16037",
+      "title": "Higher-order neighborhood truss decomposition"
+    },
+    {
+      "id": "2201.08062",
+      "title": "A stabilizer-free $c^0$ weak galerkin method for the biharmonic equations"
+    },
+    {
+      "id": "1808.05457",
+      "title": "A contact camel theorem"
+    },
+    {
+      "id": "2104.05601",
+      "title": "Good coverings of proximal alexandrov spaces. path cycles in the extension of the mitsuishi-yamaguchi good covering and jordan curve theorems"
+    },
+    {
+      "id": "2110.11614",
+      "title": "Continuum many different things: localisation, anti-localisation and yorioka ideals"
+    },
+    {
+      "id": "2201.01894",
+      "title": "A classification of combinatorial types of discriminantal arrangements"
+    },
+    {
+      "id": "2201.05003",
+      "title": "$\\infty$-categorical perverse $p$-adic differential equations over stacks"
+    },
+    {
+      "id": "2201.07837",
+      "title": "A forgotten theorem of pe{\\l}czy\\'n\\'ski: $(\\lambda+)$-injective spaces need not be $\\lambda$-injective -- the case $\\lambda\\in (1,2]$"
+    },
+    {
+      "id": "2201.07868",
+      "title": "Misiurewicz polynomials and dynamical units, part i"
+    },
+    {
+      "id": "2201.07892",
+      "title": "Circular arcs are the only analytic jordan curves with an exterior power point"
+    },
+    {
+      "id": "2201.08009",
+      "title": "On conjugacy of subalgebras in graph $c^*$-algebras. ii"
+    },
+    {
+      "id": "2201.08063",
+      "title": "Hypergeometric sheaves for classical groups via geometric langlands"
+    },
+    {
+      "id": "2201.08100",
+      "title": "Growth of homotopy groups of spheres via the goodwillie tower"
+    },
+    {
+      "id": "2201.08168",
+      "title": "Pattern-avoidance and fuss-catalan numbers"
+    },
+    {
+      "id": "1911.00043",
+      "title": "Radius of convergence in lattice qcd at finite $\\mu_b$ with rooted staggered fermions"
+    },
+    {
+      "id": "2104.02543",
+      "title": "Computing quivers for two and higher loops for the colored planar $\\phi^3$ theory"
+    },
+    {
+      "id": "2201.03404",
+      "title": "Renyi entropy for monodromy defects of higher derivative free fields on even-dimensional spheres"
+    }
+  ],
+  "#23: learning ; data ; model ; training ; based:": [
+    {
+      "id": "1902.09602",
+      "title": "Analyzing data selection techniques with tools from the theory of information losses"
+    },
+    {
+      "id": "1906.06423",
+      "title": "Fixing the train-test resolution discrepancy"
+    },
+    {
+      "id": "2011.01104",
+      "title": "Efficient pac learning from the crowd with pairwise comparison"
+    },
+    {
+      "id": "2101.11212",
+      "title": "Using hyperbolic geometry for fg-net over distantly supervised data"
+    },
+    {
+      "id": "2105.08643",
+      "title": "Asm2tv: an adaptive semi-supervised multi-task multi-view learning framework for human activity recognition"
+    },
+    {
+      "id": "2107.06992",
+      "title": "Finding significant features for few-shot learning using dimensionality reduction"
+    },
+    {
+      "id": "2111.11430",
+      "title": "Multi-modal transformers excel at class-agnostic object detection"
+    },
+    {
+      "id": "2201.07821",
+      "title": "Building a performance model for deep learning recommendation model training on gpus"
+    },
+    {
+      "id": "2201.07891",
+      "title": "Homogenization of existing inertial-based datasets to support human activity recognition"
+    },
+    {
+      "id": "2201.07894",
+      "title": "Enhanced performance of pre-trained networks by matched augmentation distributions"
+    },
+    {
+      "id": "2201.07989",
+      "title": "Self-supervised video representation learning with cascade positive retrieval"
+    },
+    {
+      "id": "2201.08215",
+      "title": "Cp-net: contour-perturbed reconstruction network for self-supervised point cloud learning"
+    },
+    {
+      "id": "2201.08265",
+      "title": "Cross-domain few-shot graph classification"
+    },
+    {
+      "id": "2201.08295",
+      "title": "Diva-daf: a deep learning framework for historical document image analysis"
+    },
+    {
+      "id": "2201.08314",
+      "title": "Adaptive neighborhood metric learning"
+    },
+    {
+      "id": "2201.08371",
+      "title": "Revisiting weakly supervised pre-training of visual perception models"
+    }
+  ],
+  "#24: ai ; intelligence ; learning ; data ; artificial:": [
+    {
+      "id": "2001.06615",
+      "title": "The risk to population health equity posed by automated decision systems: a narrative review"
+    },
+    {
+      "id": "2007.08911",
+      "title": "Technologies for trustworthy machine learning: a survey in a socio-technical context"
+    },
+    {
+      "id": "2111.10518",
+      "title": "Towards safe, explainable, and regulated autonomous driving"
+    },
+    {
+      "id": "2201.04480",
+      "title": "Learning to identify top elo ratings: a dueling bandits approach"
+    },
+    {
+      "id": "2201.04569",
+      "title": "Get your foes fooled: proximal gradient split learning for defense against model inversion attacks on iomt data"
+    },
+    {
+      "id": "2201.04876",
+      "title": "Towards a reference software architecture for human-ai teaming in smart manufacturing"
+    },
+    {
+      "id": "2201.05026",
+      "title": "Fantastic data and how to query them"
+    },
+    {
+      "id": "2201.07935",
+      "title": "Towards deep observation: a systematic survey on artificial intelligence techniques to monitor fetus via ultrasound images"
+    },
+    {
+      "id": "2201.07977",
+      "title": "Adaptability of improved neat in variable environments"
+    },
+    {
+      "id": "2201.08095",
+      "title": "Before and after: machine learning for perioperative patient care"
+    },
+    {
+      "id": "2201.08164",
+      "title": "From anecdotal evidence to quantitative evaluation methods: a systematic review on evaluating explainable ai"
+    },
+    {
+      "id": "2201.08184",
+      "title": "Data-driven innovation: what is it"
+    },
+    {
+      "id": "2201.08278",
+      "title": "Lifelong learning metrics"
+    },
+    {
+      "id": "2201.08300",
+      "title": "From psychological curiosity to artificial curiosity: curiosity-driven learning in artificial intelligence tasks"
+    },
+    {
+      "id": "2201.08356",
+      "title": "Ai technical considerations: data storage, cloud usage and ai pipeline"
+    }
+  ],
+  "#25: flow ; model ; fluid ; velocity ; method:": [
+    {
+      "id": "2109.04797",
+      "title": "Mesh convolutional neural networks for wall shear stress estimation in 3d artery models"
+    },
+    {
+      "id": "2201.03200",
+      "title": "Predictions of reynolds and nusselt numbers in turbulent convection using machine-learning models"
+    },
+    {
+      "id": "2201.07835",
+      "title": "Correlated-informed neural networks: a new machine learning framework to predict pressure drop in micro-channels"
+    },
+    {
+      "id": "2201.08128",
+      "title": "Analytic adjoint solutions for the 2d incompressible euler equations using the green's function approach"
+    },
+    {
+      "id": "2201.08279",
+      "title": "Modeling and hexahedral meshing of arterial networks from centerlines"
+    },
+    {
+      "id": "2012.11571",
+      "title": "Fast and versatile thermo-osmotic flows with a pinch of salt"
+    },
+    {
+      "id": "2103.03619",
+      "title": "A local approximation model for macroscale transport of biased active brownian particles in a flowing suspension"
+    },
+    {
+      "id": "2110.12659",
+      "title": "Interactions between irregular wave fields and sea ice: a physical model for wave attenuation and ice breakup in an ice tank"
+    },
+    {
+      "id": "2111.11977",
+      "title": "New equations of state describing both the dynamic viscosity and self-diffusion coefficient for potassium and thallium in their fluid phases"
+    },
+    {
+      "id": "2112.01969",
+      "title": "Experimental observations on the effects of intermolecular van der waal forces on entropy"
+    },
+    {
+      "id": "2112.07683",
+      "title": "Terahertz radiation from the dyakonov-shur instability of hydrodynamic electrons in a corbino geometry"
+    },
+    {
+      "id": "2201.07965",
+      "title": "On the existence of fast modes in compressible magnetohydrodynamic turbulence"
+    },
+    {
+      "id": "2201.08241",
+      "title": "Active nematic gel with quenched disorder"
+    },
+    {
+      "id": "2201.08331",
+      "title": "Pseudo-hydrodynamic flow of quasiparticles in semimetal wte2 at room temperature"
+    },
+    {
+      "id": "2201.08341",
+      "title": "Numerical simulation of flow over flapping wings in tandem: wingspan effects"
+    }
+  ],
+  "#26: theorem ; prove ; functions ; polynomials ; function:": [
+    {
+      "id": "2201.08026",
+      "title": "Several coercivity proofs of first-order system least-squares methods for second-order elliptic pdes"
+    },
+    {
+      "id": "1903.01578",
+      "title": "Limited polynomials and sendov's conjecture"
+    },
+    {
+      "id": "1908.10153",
+      "title": "A modified proof for higman's embedding theorem"
+    },
+    {
+      "id": "2005.02524",
+      "title": "An elementary proof that walk dimension is greater than two for brownian motion on sierpi\\'{n}ski carpets"
+    },
+    {
+      "id": "2106.10728",
+      "title": "A simple, combinatorial proof of gowers dichotomy for banach spaces"
+    },
+    {
+      "id": "2112.05521",
+      "title": "About the riemann hypothesis"
+    },
+    {
+      "id": "2201.02583",
+      "title": "Summation formulae for quadrics"
+    },
+    {
+      "id": "2201.07967",
+      "title": "A remark on ehresmann's fibration theorem"
+    },
+    {
+      "id": "2201.08035",
+      "title": "Ansatz in a nutshell: a comprehensive step-by-step guide to polynomial, $c$-finite, holonomic, and $c^2$-finite sequences"
+    },
+    {
+      "id": "2201.08045",
+      "title": "Non-commutative rational clark measures"
+    },
+    {
+      "id": "2201.08073",
+      "title": "Corrigendum to \"on subgroup perfect codes in cayley graphs\" [european j. combin. 91 (2021) 103228]"
+    },
+    {
+      "id": "2201.08203",
+      "title": "On leopoldt's and gross's defects for artin representations"
+    },
+    {
+      "id": "2201.08208",
+      "title": "On the existence of flips for threefolds in mixed characteristic $(0,5)$"
+    },
+    {
+      "id": "2201.08212",
+      "title": "A new theorem relating the tangent secant theorem to the golden ratio"
+    },
+    {
+      "id": "2201.08213",
+      "title": "Primality of theta-curves with proper rational tangle unknotting number one"
+    }
+  ],
+  "#27: dark ; black ; hole ; matter ; holes:": [
+    {
+      "id": "2001.00948",
+      "title": "Speeding up dark matter with solar neutrinos"
+    },
+    {
+      "id": "2106.02595",
+      "title": "Tidal deformation of dynamical horizons in binary black hole mergers"
+    },
+    {
+      "id": "2107.06887",
+      "title": "Predictions for local png bias in the galaxy power spectrum and bispectrum and the consequences for $f_{\\rm nl}$ constraints"
+    },
+    {
+      "id": "2108.12044",
+      "title": "Transient glitch mitigation in advanced ligo data with $\\textit{glitschen}$"
+    },
+    {
+      "id": "2109.01193",
+      "title": "Generalized source multipole moments of dynamical horizons in binary black hole mergers"
+    },
+    {
+      "id": "2110.00366",
+      "title": "Galactic model with a phase transition from dark matter to dark energy"
+    },
+    {
+      "id": "2110.05248",
+      "title": "Capability for detection of gw190521-like binary black holes with tianqin"
+    },
+    {
+      "id": "2110.11975",
+      "title": "Background of radio photons from primordial black holes"
+    },
+    {
+      "id": "2110.12972",
+      "title": "Constraining exotic compact stars composed of bosonic and fermionic dark matter with gravitational wave events"
+    },
+    {
+      "id": "2112.15038",
+      "title": "Estimating the cosmological constant from shadows of kerr--de sitter black holes"
+    },
+    {
+      "id": "2201.00444",
+      "title": "Dynamical stability of the power law k-essence dark energy model with a new interaction"
+    },
+    {
+      "id": "2201.03161",
+      "title": "Holographic einstein ring of a charged ads black hole"
+    },
+    {
+      "id": "2201.07704",
+      "title": "The end of expansion"
+    },
+    {
+      "id": "2201.08250",
+      "title": "Lost horizon? -- modeling black holes in string theory"
+    },
+    {
+      "id": "2201.08305",
+      "title": "Superradiance in massive vector fields with spatially varying mass"
+    }
+  ],
+  "#28: planets ; solar ; data ; planet ; model:": [
+    {
+      "id": "1810.02172",
+      "title": "Deciphering the atmosphere of hat-p-12b: solving discrepant results"
+    },
+    {
+      "id": "1907.13145",
+      "title": "A scaling for atmospheric heat redistribution on tidally-locked rocky planets"
+    },
+    {
+      "id": "2110.11615",
+      "title": "Reanalysis of c-type rr lyrae variable be dor, period modulations and possible mechanism"
+    },
+    {
+      "id": "2111.06666",
+      "title": "The sapp pipeline for the determination of stellar abundances and atmospheric parameters of stars in the core program of the plato mission"
+    },
+    {
+      "id": "2201.03383",
+      "title": "Constraining giant planet formation with synthetic alma images of the solar system's natal protoplanetary disk"
+    },
+    {
+      "id": "2201.07453",
+      "title": "Planetary accretion shocks with a realistic equation of state"
+    },
+    {
+      "id": "2201.07828",
+      "title": "First solar radio burst observations by the mexican array radio telescope (mexart) at 140 mhz"
+    },
+    {
+      "id": "2201.07924",
+      "title": "Spitzer publication statistics"
+    },
+    {
+      "id": "2201.08069",
+      "title": "Analysis of the distribution, rotation and scale characteristics of solar wind switchbacks: comparison between the first and second encounters of parker solar probe"
+    },
+    {
+      "id": "2201.08092",
+      "title": "Terrestrial planet formation from lost inner solar system material"
+    },
+    {
+      "id": "2201.08209",
+      "title": "On the shallowness of circulation in hot jupiters -- advancing the ohmic dissipation model"
+    },
+    {
+      "id": "2201.08350",
+      "title": "Accurate modeling of grazing transits using umbrella sampling"
+    },
+    {
+      "id": "2201.08369",
+      "title": "Planet populations inferred from debris discs: insights from 178 debris systems in the ispy, leech and listen planet-hunting surveys"
+    },
+    {
+      "id": "2201.08370",
+      "title": "Tess revisits wasp-12: updated orbital decay rate and constraints on atmospheric variability"
+    }
+  ],
+  "#29: vehicles ; traffic ; vehicle ; model ; time:": [
+    {
+      "id": "1909.06953",
+      "title": "Off-road autonomous vehicles traversability analysis and trajectory planning based on deep inverse reinforcement learning"
+    },
+    {
+      "id": "2101.01993",
+      "title": "A survey of deep rl and il for autonomous driving policy learning"
+    },
+    {
+      "id": "2105.04756",
+      "title": "Haps-its: enabling future its services in trans-continental highways"
+    },
+    {
+      "id": "2105.05701",
+      "title": "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic"
+    },
+    {
+      "id": "2107.00346",
+      "title": "Mass: multi-attentional semantic segmentation of lidar data for dense top-view understanding"
+    },
+    {
+      "id": "2109.03146",
+      "title": "Toward generating sufficiently valid test case results: a method for systematically assigning test cases to test bench configurations in a scenario-based test approach for automated vehicles"
+    },
+    {
+      "id": "2201.07833",
+      "title": "Hybrid reinforcement learning-based eco-driving strategy for connected and automated vehicles at signalized intersections"
+    },
+    {
+      "id": "2201.07881",
+      "title": "Analysis of lane-change conflict between cars and trucks at merging section using uav video data"
+    },
+    {
+      "id": "2201.07973",
+      "title": "Edgemap: crowdsourcing high definition map in automotive edge computing"
+    },
+    {
+      "id": "2201.08017",
+      "title": "Fine-grained trajectory-based travel time estimation for multi-city scenarios based on deep meta-learning"
+    },
+    {
+      "id": "2201.08116",
+      "title": "Self-awareness safety of deep reinforcement learning in road traffic junction driving"
+    },
+    {
+      "id": "2201.08014",
+      "title": "Application of particle swarm optimization method to on-going monitoring for estimating vehicle-bridge interaction system"
+    },
+    {
+      "id": "2106.05404",
+      "title": "Tracing contacts to evaluate the transmission of covid-19 from highly exposed individuals in public transportation"
+    }
+  ],
+  "#30: time ; proposed ; based ; data ; method:": [
+    {
+      "id": "2004.06194",
+      "title": "Fault location using the natural frequency of oscillation of current discharge in mtdc networks"
+    },
+    {
+      "id": "2103.04710",
+      "title": "Cluster-based input weight initialization for echo state networks"
+    },
+    {
+      "id": "2105.14304",
+      "title": "Stability and super-resolution of music and esprit for multi-snapshot spectral estimation"
+    },
+    {
+      "id": "2111.08118",
+      "title": "Neuro-hotnet: a graph theoretic approach for brain fc estimation"
+    },
+    {
+      "id": "2201.07933",
+      "title": "One-step abductive multi-target learning with diverse noisy label samples"
+    },
+    {
+      "id": "2201.08237",
+      "title": "Simple gray coding and llr calculation for mds modulation systems"
+    },
+    {
+      "id": "2201.08219",
+      "title": "Continuous phase modulation of phase coded transmit waveforms using multi-tone sinusoidal frequency modulation"
+    },
+    {
+      "id": "2005.13631",
+      "title": "Response and uncertainty of the parabolic variance pvar to non-integer exponents of the power law"
+    },
+    {
+      "id": "2201.07802",
+      "title": "Clifford-deformed surface codes"
+    },
+    {
+      "id": "2201.07968",
+      "title": "A brief introduction to povm measurement in quantum communications"
+    },
+    {
+      "id": "2201.08188",
+      "title": "Beyondplanck xiv. intensity foreground sampling, degeneracies and priors"
+    },
+    {
+      "id": "2201.07896",
+      "title": "Generative models for periodicity detection in noisy signals"
+    },
+    {
+      "id": "2201.07910",
+      "title": "A complex-lasso approach for localizing forced oscillations in power systems"
+    }
+  ],
+  "#31: model ; models ; data ; based ; time:": [
+    {
+      "id": "2107.06621",
+      "title": "Rough mckean-vlasov dynamics for robust ensemble kalman filtering"
+    },
+    {
+      "id": "2108.11298",
+      "title": "Data-driven system analysis of nonlinear systems using polynomial approximation"
+    },
+    {
+      "id": "2111.14000",
+      "title": "Factor-augmented tree ensembles"
+    },
+    {
+      "id": "2201.08283",
+      "title": "Lead-lag detection and network clustering for multivariate time series with an application to the us equity market"
+    },
+    {
+      "id": "2201.08306",
+      "title": "An information theory approach to network evolution models"
+    },
+    {
+      "id": "2102.01188",
+      "title": "Non-adaptive and adaptive two-sided search with fast objects"
+    },
+    {
+      "id": "2108.03328",
+      "title": "Growing hyperbolic networks beyond two dimensions: the generalised popularity-similarity optimisation model"
+    },
+    {
+      "id": "2111.13736",
+      "title": "Equivariant analytical mapping of first principles hamiltonians to accurate and transferable materials models"
+    },
+    {
+      "id": "2201.07831",
+      "title": "Reduced models for etg transport in the pedestal"
+    },
+    {
+      "id": "2201.07830",
+      "title": "Using joint random partition models for flexible change point analysis in multivariate processes"
+    },
+    {
+      "id": "2201.08171",
+      "title": "Use of simulation models for the development of a statistical production framework for mobile network data with the simutils package"
+    },
+    {
+      "id": "2201.08323",
+      "title": "Parallel and distributed bayesian modelling for analysing high-dimensional spatio-temporal count data"
+    },
+    {
+      "id": "2201.08343",
+      "title": "Using machine learning to test causal hypotheses in conjoint analysis"
+    }
+  ],
+  "#32: optimization ; algorithm ; problem ; problems ; algorithms:": [
+    {
+      "id": "1802.02219",
+      "title": "Practical transfer learning for bayesian optimization"
+    },
+    {
+      "id": "1903.01006",
+      "title": "Pushing the boundaries of asymptotic optimality in integrated task and motion planning"
+    },
+    {
+      "id": "2005.02274",
+      "title": "Online convex optimization with binary constraints"
+    },
+    {
+      "id": "2108.05345",
+      "title": "The lawson-hanson algorithm with deviation maximization: finite convergence and sparse recovery"
+    },
+    {
+      "id": "2109.08377",
+      "title": "Benchmarking feature-based algorithm selection systems for black-box numerical optimization"
+    },
+    {
+      "id": "2110.02128",
+      "title": "Neurwin: neural whittle index network for restless bandits via deep rl"
+    },
+    {
+      "id": "2201.07839",
+      "title": "Critic algorithms using cooperative networks"
+    },
+    {
+      "id": "2201.07877",
+      "title": "Pde-based optimal strategy for unconstrained online learning"
+    },
+    {
+      "id": "2201.07917",
+      "title": "Similarity search on neighbor's graphs with automatic pareto optimal performance and minimum expected quality setups based on hyperparameter optimization"
+    },
+    {
+      "id": "2201.07958",
+      "title": "Recursive constraints to prevent instability in constrained reinforcement learning"
+    },
+    {
+      "id": "2201.08118",
+      "title": "Interval-memoized backtracking on zdds for fast enumeration of all lower cost solutions"
+    },
+    {
+      "id": "2201.08311",
+      "title": "Accelerated gradient flow: risk, stability, and implicit regularization"
+    }
+  ],
+  "#33: wireless ; network ; iot ; networks ; ris:": [
+    {
+      "id": "1901.03931",
+      "title": "Joint placement and allocation of vnf nodes with budget and capacity constraints"
+    },
+    {
+      "id": "2106.03504",
+      "title": "Boosting 5g mm-wave iab reliability with reconfigurable intelligent surfaces"
+    },
+    {
+      "id": "2112.15404",
+      "title": "Virtualization over multiprocessor system-on-chip: an enabling paradigm for industrial iot"
+    },
+    {
+      "id": "2201.07060",
+      "title": "A max-min fair resource allocation framework for optical x-haul and du/cu in multi-tenant o-rans"
+    },
+    {
+      "id": "2201.07462",
+      "title": "Leaving your things unattended is no joke! memory bus snooping and open debug interface exploits"
+    },
+    {
+      "id": "2201.07888",
+      "title": "Adaptive energy management for self-sustainable wearables in mobile health"
+    },
+    {
+      "id": "2201.08041",
+      "title": "Multi-sim support in 5g evolution: challenges and opportunities"
+    },
+    {
+      "id": "2201.08202",
+      "title": "Active connectivity fundamentals for tsch networks of mobile robots"
+    },
+    {
+      "id": "2201.08254",
+      "title": "Openipdm: a probabilistic framework for estimating the deterioration and effect of interventions on bridges"
+    },
+    {
+      "id": "2201.08270",
+      "title": "Towards energy efficient distributed federated learning for 6g networks"
+    },
+    {
+      "id": "2201.07875",
+      "title": "Network-elaa beamforming and coverage analysis for embb/urllc in spatially non-stationary rician channels"
+    },
+    {
+      "id": "2201.08263",
+      "title": "Fault location in high voltage multi-terminal dc networks using ensemble learning"
+    }
+  ],
+  "#34: data ; based ; detection ; sensor ; proposed:": [
+    {
+      "id": "1909.08991",
+      "title": "Road damage detection acquisition system based on deep neural networks for physical asset management"
+    },
+    {
+      "id": "2007.01864",
+      "title": "Accurate bounding-box regression with distance-iou loss for visual tracking"
+    },
+    {
+      "id": "2012.06737",
+      "title": "Computer vision and normalizing flow-based defect detection"
+    },
+    {
+      "id": "2110.01329",
+      "title": "Automated aerial animal detection when spatial resolution conditions are varied"
+    },
+    {
+      "id": "2201.07863",
+      "title": "Ros georegistration: aerial multi-spectral image simulator for the robot operating system"
+    },
+    {
+      "id": "2201.08001",
+      "title": "Celestial: classification enabled via labelless embeddings with self-supervised telescope image analysis learning"
+    },
+    {
+      "id": "2201.08049",
+      "title": "Lightweight salient object detection in optical remote sensing images via feature correlation"
+    },
+    {
+      "id": "2201.08093",
+      "title": "Airpose: multi-view fusion network for aerial 3d human pose and shape estimation"
+    },
+    {
+      "id": "2101.12445",
+      "title": "Sparsity based autoencoders for denoising cluttered radar signatures"
+    },
+    {
+      "id": "2201.08307",
+      "title": "Variational bayesian filtering with subspace information for extreme spatio-temporal matrix completion"
+    },
+    {
+      "id": "2201.08064",
+      "title": "Using a smartphone pressure sensor as pitot tube speedometer"
+    },
+    {
+      "id": "2104.01165",
+      "title": "Distributional data analysis of accelerometer data from the nhanes database using nonparametric survey regression models"
+    }
+  ],
+  "#35: group ; mathbb ; let ; finite ; groups:": [
+    {
+      "id": "1907.03185",
+      "title": "Strict quantization of coadjoint orbits"
+    },
+    {
+      "id": "1909.09280",
+      "title": "Polynomial relations between operators on chains of representation rings"
+    },
+    {
+      "id": "2104.15073",
+      "title": "Virtual critical regularity of mapping class group actions on the circle"
+    },
+    {
+      "id": "2105.01431",
+      "title": "Modules for algebraic groups with finitely many orbits on totally singular 2-spaces"
+    },
+    {
+      "id": "2201.07825",
+      "title": "Potential good reduction of hyperelliptic curves"
+    },
+    {
+      "id": "2201.07913",
+      "title": "Uniformly $s$-noetherian rings"
+    },
+    {
+      "id": "2201.08021",
+      "title": "Cubic graphical regular representations of some classical simple groups"
+    },
+    {
+      "id": "2201.08030",
+      "title": "P-adic simpson correpondence via prismatic crystals"
+    },
+    {
+      "id": "2201.08113",
+      "title": "Relative compactifications of semiabelian n\\'eron models"
+    },
+    {
+      "id": "2201.08274",
+      "title": "On the number of constituents of products of characters"
+    },
+    {
+      "id": "2201.08312",
+      "title": "The geometry of subgroup embeddings and asymptotic cones"
+    },
+    {
+      "id": "2201.08339",
+      "title": "$\\sigma$-semicommutative rings and their skew pbw extensions"
+    }
+  ],
+  "#36: stochastic ; time ; model ; markov ; algorithm:": [
+    {
+      "id": "1505.04732",
+      "title": "Layered adaptive importance sampling"
+    },
+    {
+      "id": "2109.11808",
+      "title": "A dynamic programming algorithm for finding an optimal sequence of informative measurements"
+    },
+    {
+      "id": "2112.07110",
+      "title": "Non asymptotic bounds for optimization via online multiplicative stochastic gradient descent"
+    },
+    {
+      "id": "2201.07908",
+      "title": "Markov decision processes with observation costs"
+    },
+    {
+      "id": "2201.08207",
+      "title": "Invasion dynamics in the biased voter process"
+    },
+    {
+      "id": "2101.12429",
+      "title": "Optimization of radar parameters for maximum detection probability under generalized discrete clutter conditions using stochastic geometry"
+    },
+    {
+      "id": "1912.03692",
+      "title": "Global well-posedness of non-markovian multidimensional superquadratic bsde"
+    },
+    {
+      "id": "2107.14401",
+      "title": "Strong convergence rates in averaging principle for slow-fast mckean-vlasov spdes"
+    },
+    {
+      "id": "2201.08298",
+      "title": "Mean field analysis of stochastic networks with reservation"
+    },
+    {
+      "id": "2201.08044",
+      "title": "Metropolis augmented hamiltonian monte carlo"
+    },
+    {
+      "id": "2201.08072",
+      "title": "Geometrically adapted langevin dynamics for markov chain monte carlo simulations"
+    }
+  ],
+  "#37: mathbb ; mathcal ; matrix ; let ; mathbf:": [
+    {
+      "id": "1506.02047",
+      "title": "Bias vs structure of polynomials in large fields, and applications in information theory"
+    },
+    {
+      "id": "1609.05496",
+      "title": "On two-quotient strong starters for $\\mathbb{f}_q$"
+    },
+    {
+      "id": "2103.06730",
+      "title": "Normal fluctuation in quantum ergodicity for wigner matrices"
+    },
+    {
+      "id": "2106.15621",
+      "title": "On the general no-three-in-line problem"
+    },
+    {
+      "id": "2201.07797",
+      "title": "Aichinger equation on commutative semigroups"
+    },
+    {
+      "id": "2201.07878",
+      "title": "On an approach for evaluating certain trigonometric character sums using the discrete time heat kernel"
+    },
+    {
+      "id": "2201.08037",
+      "title": "On a paucity result in incidence geometry"
+    },
+    {
+      "id": "2201.08076",
+      "title": "A higher order levin-feinleib theorem"
+    },
+    {
+      "id": "2201.08084",
+      "title": "Cross $t$-intersecting families for finite affine spaces"
+    },
+    {
+      "id": "2201.08240",
+      "title": "Freiman borel type ideals"
+    },
+    {
+      "id": "2201.08376",
+      "title": "Intersecting families of graphs of functions over a finite field"
+    }
+  ],
+  "#38: logic ; systems ; theory ; paper ; semantics:": [
+    {
+      "id": "1712.05310",
+      "title": "Quantifying over boolean announcements"
+    },
+    {
+      "id": "2007.03249",
+      "title": "Agafonov's proof of agafonov's theorem: a modern account and new insights"
+    },
+    {
+      "id": "2008.07385",
+      "title": "Further results and examples for formal mathematical systems with structural induction"
+    },
+    {
+      "id": "2201.08099",
+      "title": "Jedi: these aren't the json documents you're looking for... (extended version*)"
+    },
+    {
+      "id": "2201.08112",
+      "title": "Belief revision in sentential decision diagrams"
+    },
+    {
+      "id": "2201.08225",
+      "title": "Exact learning for infinite families of concepts"
+    },
+    {
+      "id": "2201.08275",
+      "title": "The different shades of infinite session types"
+    },
+    {
+      "id": "1809.09654",
+      "title": "Exact weights, path metrics, and algebraic wasserstein distances"
+    },
+    {
+      "id": "2011.13962",
+      "title": "Induced and higher-dimensional stable independence"
+    },
+    {
+      "id": "2103.02489",
+      "title": "Contradiction from the fixed point lemma"
+    },
+    {
+      "id": "2201.08353",
+      "title": "The power of clockings"
+    }
+  ],
+  "#39: graph ; graphs ; vertices ; vertex ; number:": [
+    {
+      "id": "1906.09783",
+      "title": "On strong diameter padded decompositions"
+    },
+    {
+      "id": "2008.09004",
+      "title": "Solving problems on generalized convex graphs via mim-width"
+    },
+    {
+      "id": "1709.07466",
+      "title": "The 6-girth-thickness of the complete graph"
+    },
+    {
+      "id": "1804.08723",
+      "title": "On the 4-girth-thickness of the line graph of the complete graph"
+    },
+    {
+      "id": "2003.09409",
+      "title": "Achromatic numbers of kneser graphs"
+    },
+    {
+      "id": "2005.00332",
+      "title": "Some doubly semi-equivelar maps on the plane and the torus"
+    },
+    {
+      "id": "2107.05874",
+      "title": "Minimum generating sets for complete graphs"
+    },
+    {
+      "id": "2201.08048",
+      "title": "Extremal results on $g$-free colorings of graphs"
+    },
+    {
+      "id": "2201.08160",
+      "title": "Hs-integral normal mixed cayley graphs"
+    },
+    {
+      "id": "2201.08204",
+      "title": "A counterexample to a conjecture about triangle-free induced subgraphs of graphs with large chromatic number"
+    },
+    {
+      "id": "2201.08328",
+      "title": "A class of maps on the torus and their vertex orbits"
+    }
+  ],
+  "#40: data ; research ; paper ; based ; citation:": [
+    {
+      "id": "2004.01697",
+      "title": "Designer modeling through design style clustering"
+    },
+    {
+      "id": "2008.07753",
+      "title": "A replication study on measuring the growth of open source"
+    },
+    {
+      "id": "2201.07866",
+      "title": "A practical approach of actions for fairification workflows"
+    },
+    {
+      "id": "2201.07921",
+      "title": "Demand-driven asset reutilization analytics"
+    },
+    {
+      "id": "2201.08058",
+      "title": "What makes effective leadership in agile software development teams?"
+    },
+    {
+      "id": "2201.08296",
+      "title": "Cuf-links: continuous and ubiquitous fairness linkages for reproducible research"
+    },
+    {
+      "id": "2201.08368",
+      "title": "Jira: an alternative issue tracking dataset"
+    },
+    {
+      "id": "2201.07794",
+      "title": "A non-expert's introduction to data ethics for mathematicians"
+    },
+    {
+      "id": "2201.08364",
+      "title": "Mathematics and mathematics education in the 21st century"
+    },
+    {
+      "id": "2201.04885",
+      "title": "History and geography of pentaquark searches: challenges and pitfalls"
+    },
+    {
+      "id": "2201.07985",
+      "title": "Plea to publish less"
+    }
+  ],
+  "#41: attacks ; cyber ; attack ; data ; based:": [
+    {
+      "id": "2101.10430",
+      "title": "Test and evaluation framework for multi-agent systems of autonomous intelligent agents"
+    },
+    {
+      "id": "2107.12612",
+      "title": "Poisoning online learning filters: ddos attacks and countermeasures"
+    },
+    {
+      "id": "2201.07537",
+      "title": "Graph neural network-based android malware classification with jumping knowledge"
+    },
+    {
+      "id": "2201.07793",
+      "title": "On using blockchains for beyond visual line of sight (bvlos) drones operation: an architectural study"
+    },
+    {
+      "id": "2201.07938",
+      "title": "Spotfuzzer: static instrument and fuzzing windows cots"
+    },
+    {
+      "id": "2201.07954",
+      "title": "Effective anomaly detection in smart home by integrating event time intervals"
+    },
+    {
+      "id": "2201.07959",
+      "title": "Apiro: a framework for automated security tools api recommendation"
+    },
+    {
+      "id": "2201.08020",
+      "title": "Learning estimates at the edge using intermittent and aged measurement updates"
+    },
+    {
+      "id": "2201.08066",
+      "title": "Nlp methods in host-based intrusion detection systems: a systematic review and future directions"
+    },
+    {
+      "id": "2201.08154",
+      "title": "Napierone: a modern mixed file data set alternative to govdocs1"
+    },
+    {
+      "id": "2201.08355",
+      "title": "Sim-to-lab-to-real: safe reinforcement learning with shielding and generalization guarantees"
+    }
+  ],
+  "#42: data ; model ; based ; methods ; method:": [
+    {
+      "id": "2104.11222",
+      "title": "On aliased resizing and surprising subtleties in gan evaluation"
+    },
+    {
+      "id": "2108.09098",
+      "title": "A fuzzy-rough uncertainty measure to discover bias encoded explicitly or implicitly in features of structured pattern classification datasets"
+    },
+    {
+      "id": "2110.04070",
+      "title": "Dataset structural index: leveraging a machine's perspective towards visual data"
+    },
+    {
+      "id": "2201.01815",
+      "title": "An evaluation study of generative adversarial networks for collaborative filtering"
+    },
+    {
+      "id": "2201.06523",
+      "title": "Patterns of near-crash events in a naturalistic driving dataset: applying rules mining"
+    },
+    {
+      "id": "2201.07849",
+      "title": "Learning-from-disagreement: a model comparison and visual analytics framework"
+    },
+    {
+      "id": "2201.07932",
+      "title": "Selecting the suitable resampling strategy for imbalanced data classification regarding dataset properties"
+    },
+    {
+      "id": "2201.08029",
+      "title": "Domain generalization via frequency-based feature disentanglement and interaction"
+    },
+    {
+      "id": "2201.08174",
+      "title": "Knowledge graph question answering leaderboard: a community resource to prevent a replication crisis"
+    },
+    {
+      "id": "2201.08233",
+      "title": "Sample summary with generative encoding"
+    },
+    {
+      "id": "2201.08294",
+      "title": "Statistical prediction of extreme events from small datasets"
+    }
+  ],
+  "#43: channel ; mimo ; irs ; proposed ; based:": [
+    {
+      "id": "2201.07437",
+      "title": "Extreme age of information for wireless-powered communication systems"
+    },
+    {
+      "id": "2201.07843",
+      "title": "Crc-aided list decoding of convolutional and polar codes for short messages in 5g"
+    },
+    {
+      "id": "2201.07950",
+      "title": "A low-complexity location-based hybrid multiple access and relay selection in v2x multicast communications"
+    },
+    {
+      "id": "2201.08052",
+      "title": "Adversarial jamming for a more effective constellation attack"
+    },
+    {
+      "id": "2201.08068",
+      "title": "Power allocation algorithms for massive mimo systems with multi-antenna users"
+    },
+    {
+      "id": "2201.08136",
+      "title": "Energy efficiency maximization in large-scale cell-free massive mimo: a projected gradient approach"
+    },
+    {
+      "id": "2201.08169",
+      "title": "Secure rate-splitting for the mimo broadcast channel with imperfect csit and a jammer"
+    },
+    {
+      "id": "2201.03221",
+      "title": "Estimation of bistatic radar detection performance under discrete clutter conditions using stochastic geometry"
+    },
+    {
+      "id": "2201.07862",
+      "title": "An effective spatial modulation based scheme for indoor vlc systems"
+    },
+    {
+      "id": "2201.07943",
+      "title": "Fusion learning for 1-bit cs-based superimposed csi feedback with bi-directional channel reciprocity"
+    },
+    {
+      "id": "2201.08221",
+      "title": "A 1.5gs/s 8b pipelined-sar adc with output level shifting settling technique in 14nm cmos"
+    }
+  ],
+  "#44: mathbb ; mathcal ; mathbf ; frac ; infty:": [
+    {
+      "id": "1708.01152",
+      "title": "Existence, uniqueness and ergodic properties for time-homogeneous it\\^o-sdes with locally integrable drifts and sobolev diffusion coefficients"
+    },
+    {
+      "id": "1802.04114",
+      "title": "A sharpened strichartz inequality for the wave equation"
+    },
+    {
+      "id": "2004.05753",
+      "title": "The schur multiplier of an $n$-lie superalgebra"
+    },
+    {
+      "id": "2102.00768",
+      "title": "The blow-up rate for a non-scaling invariant semilinear heat equation"
+    },
+    {
+      "id": "2103.15528",
+      "title": "On asymptotic expansions for the derivatives of the alternating hurwitz zeta functions"
+    },
+    {
+      "id": "2107.04554",
+      "title": "Whitney's extension theorem and the finiteness principle for curves in the heisenberg group"
+    },
+    {
+      "id": "2201.07836",
+      "title": "Log-convexity and the overpartition function"
+    },
+    {
+      "id": "2201.07840",
+      "title": "Inequalities for the overpartition function arising from determinants"
+    },
+    {
+      "id": "2201.07847",
+      "title": "The universe inside hall algebras of coherent sheaves on toric resolutions"
+    },
+    {
+      "id": "2201.07983",
+      "title": "General approach to function approximation"
+    },
+    {
+      "id": "2201.08196",
+      "title": "The wave speed of an fkpp equation with jumps via coordinated branching"
+    }
+  ],
+  "#45: agents ; agent ; learning ; model ; time:": [
+    {
+      "id": "1902.09980",
+      "title": "Understanding agent incentives using causal influence diagrams. part i: single action settings"
+    },
+    {
+      "id": "2102.01240",
+      "title": "Fair dynamic rationing"
+    },
+    {
+      "id": "2107.04267",
+      "title": "Can we replicate real human behaviour using artificial neural networks?"
+    },
+    {
+      "id": "2109.01654",
+      "title": "Multi-agent natural actor-critic reinforcement learning algorithms"
+    },
+    {
+      "id": "2110.08203",
+      "title": "Shared visual representations of drawing for communication: how do different biases affect human interpretability and intent?"
+    },
+    {
+      "id": "2112.09099",
+      "title": "Decentralized mean field games"
+    },
+    {
+      "id": "2201.08102",
+      "title": "Safe deep rl in 3d environments using human feedback"
+    },
+    {
+      "id": "2201.08111",
+      "title": "Safety-awaremulti-agent apprenticeship learning"
+    },
+    {
+      "id": "2201.08115",
+      "title": "Priors, hierarchy, and information asymmetry for skill transfer in reinforcement learning"
+    },
+    {
+      "id": "2201.07981",
+      "title": "Extending newton's laws of motion with free will"
+    }
+  ],
+  "#46: social ; news ; information ; data ; media:": [
+    {
+      "id": "2002.07563",
+      "title": "A model to measure the spread power of rumors"
+    },
+    {
+      "id": "2103.13239",
+      "title": "What's kooking? characterizing india's emerging social network, koo"
+    },
+    {
+      "id": "2112.11644",
+      "title": "Reconstructing public engagement from social media content volume"
+    },
+    {
+      "id": "2201.01688",
+      "title": "Different length, different needs: qualitative analysis of threads in online health communities"
+    },
+    {
+      "id": "2201.07263",
+      "title": "Health advertising on facebook: privacy & policy considerations"
+    },
+    {
+      "id": "2201.07423",
+      "title": "Many ways to be lonely: fine-grained characterization of loneliness and its potential changes in covid-19"
+    },
+    {
+      "id": "2201.07980",
+      "title": "Caring without sharing: a federated learning crowdsensing framework for diversifying representation of cities"
+    },
+    {
+      "id": "2201.08032",
+      "title": "Combining machine learning with knowledge engineering to detect fake news in social networks-a survey"
+    },
+    {
+      "id": "2201.08150",
+      "title": "A systematic analysis on the impact of contextual information on point-of-interest recommendation"
+    },
+    {
+      "id": "2201.08167",
+      "title": "Chatbot based solution for supporting software incident management process"
+    }
+  ],
+  "#47: video ; compression ; image ; quality ; based:": [
+    {
+      "id": "2103.12318",
+      "title": "Enhanced spatio-temporal interaction learning for video deraining: a faster and better framework"
+    },
+    {
+      "id": "2108.01192",
+      "title": "Mohaq: multi-objective hardware-aware quantization of recurrent neural networks"
+    },
+    {
+      "id": "2109.03082",
+      "title": "Perceptual learned video compression with recurrent conditional gan"
+    },
+    {
+      "id": "2201.04288",
+      "title": "Multiview transformers for video recognition"
+    },
+    {
+      "id": "2201.07795",
+      "title": "Rate splitting for general multicast"
+    },
+    {
+      "id": "2201.07823",
+      "title": "Blinc: lightweight bimodal learning for low-complexity vvc intra coding"
+    },
+    {
+      "id": "2201.08197",
+      "title": "Enhancement or super-resolution: learning-based adaptive video streaming with client-side video processing"
+    },
+    {
+      "id": "2201.08264",
+      "title": "End-to-end generative pretraining for multimodal video captioning"
+    },
+    {
+      "id": "2201.08379",
+      "title": "Learning pixel trajectories with multiscale contrastive random walks"
+    },
+    {
+      "id": "2201.08383",
+      "title": "Memvit: memory-augmented multiscale vision transformer for efficient long-term video recognition"
+    }
+  ],
+  "#48: treatment ; data ; effect ; model ; effects:": [
+    {
+      "id": "2201.05773",
+      "title": "Automated causal inference in application to randomized controlled clinical trials"
+    },
+    {
+      "id": "2201.08137",
+      "title": "Drtci: learning disentangled representations for temporal causal inference"
+    },
+    {
+      "id": "2201.08262",
+      "title": "Generalizing off-policy evaluation from a causal perspective for sequential decision-making"
+    },
+    {
+      "id": "1711.02745",
+      "title": "Identification and estimation of spillover effects in randomized experiments"
+    },
+    {
+      "id": "2008.06898",
+      "title": "Stronger versions of sensitivity for minimal group actions"
+    },
+    {
+      "id": "2201.07884",
+      "title": "Fahp-based mathematical model for exercise rehabilitation management of diabetes mellitus"
+    },
+    {
+      "id": "2009.10609",
+      "title": "Spinopelvic anatomic parameters prediction model of nslbp based on data mining"
+    },
+    {
+      "id": "2109.13064",
+      "title": "Modeling repeated self-reported outcome data: a continuous-time longitudinal item response theory model"
+    },
+    {
+      "id": "2112.07602",
+      "title": "A framework for the meta-analysis of randomized experiments with applications to heavy-tailed response data"
+    },
+    {
+      "id": "2201.08012",
+      "title": "Entropy balancing for generalizing causal estimation with summary-level information"
+    }
+  ],
+  "#49: results ; convergence ; random ; functions ; function:": [
+    {
+      "id": "2201.08284",
+      "title": "Entropies of sums of independent gamma random variables"
+    },
+    {
+      "id": "2105.09815",
+      "title": "Existence and uniqueness of (infinitesimally) invariant measures for second order partial differential operators on euclidean space"
+    },
+    {
+      "id": "2107.03776",
+      "title": "Equilibrium states for non-transitive random open and closed dynamical systems"
+    },
+    {
+      "id": "2201.00357",
+      "title": "Pseudorandom vectors generation using elliptic curves over finite fields and applications"
+    },
+    {
+      "id": "2201.00413",
+      "title": "Strong convergence of the thresholding scheme for the mean curvature flow of mean convex sets"
+    },
+    {
+      "id": "2201.07982",
+      "title": "Shrinking dynamic on multidimensional tropical series"
+    },
+    {
+      "id": "2201.08257",
+      "title": "Statistical compactness"
+    },
+    {
+      "id": "2201.08316",
+      "title": "On the uniqueness of kantorovich potentials"
+    },
+    {
+      "id": "2007.15688",
+      "title": "Electroweak constraints from the coherent experiment"
+    },
+    {
+      "id": "2201.05789",
+      "title": "Out-of-time ordered correlators in kicked coupled tops and the role of conserved quantities in information scrambling"
+    }
+  ],
+  "#50: manifolds ; space ; manifold ; spaces ; curvature:": [
+    {
+      "id": "2101.09652",
+      "title": "On maximal cliques of cayley graphs over fields"
+    },
+    {
+      "id": "2111.13374",
+      "title": "Invariant volume forms and first integrals for geodesically equivalent finsler metrics"
+    },
+    {
+      "id": "2112.09353",
+      "title": "Almost volume cone implies almost metric cone for annuluses centered at a compact set in $rcd(k, n)$-spaces"
+    },
+    {
+      "id": "2201.05038",
+      "title": "Characteristic forms of complex cartan geometries ii"
+    },
+    {
+      "id": "2201.08138",
+      "title": "The classification of rigid hyperelliptic fourfolds"
+    },
+    {
+      "id": "2201.08231",
+      "title": "Lower bounds for genera of fiber products"
+    },
+    {
+      "id": "2201.08347",
+      "title": "Einstein type systems on complete manifolds"
+    },
+    {
+      "id": "math/0504011",
+      "title": "Complete minimal hypersurfaces in the hyperbolic space $\\mathbb{h}^4$ with vanishing gauss-kronecker curvature"
+    },
+    {
+      "id": "2008.10602",
+      "title": "Invariant quadratic operators associated with linear canonical transformations and their eigenstates"
+    },
+    {
+      "id": "2201.07807",
+      "title": "Romans massive qp manifolds"
+    }
+  ],
+  "#51: imaging ; image ; data ; images ; based:": [
+    {
+      "id": "2201.07889",
+      "title": "Machine learning enhances algorithms for quantifying non-equilibrium dynamics in correlation spectroscopy experiments to reach frame-rate-limited time resolution"
+    },
+    {
+      "id": "2201.08027",
+      "title": "A joint morphological profiles and patch tensor change detection for hyperspectral imagery"
+    },
+    {
+      "id": "2201.08266",
+      "title": "Real-time rendering for integral imaging light field displays based on a voxel-pixel lookup table"
+    },
+    {
+      "id": "2201.07851",
+      "title": "Enhanced deep-tissue photoacoustics by using microcomposites made of rf-metamaterials and soft polymers: double- and triple-resonance phenomena"
+    },
+    {
+      "id": "2201.07911",
+      "title": "Imaging dynamic microtubules and associated proteins by simultaneous interference-reflection and total-internal-reflection-fluorescence microscopy"
+    },
+    {
+      "id": "2201.07939",
+      "title": "Optimizing the light penetration depth in apds and spads for high gain-bandwidth and ultra-wide spectral response"
+    },
+    {
+      "id": "2201.07948",
+      "title": "Vectorial wavefront holography based on a polarisation-insensitive hologram"
+    },
+    {
+      "id": "2201.08151",
+      "title": "High-order photonic cavity resonance enabled 3d structural color"
+    },
+    {
+      "id": "2107.07256",
+      "title": "Statistical modeling of corneal oct speckle. a distributional model-free approach"
+    }
+  ],
+  "#52: learning ; deep ; data ; neural ; networks:": [
+    {
+      "id": "1903.09668",
+      "title": "Data augmentation for bayesian deep learning"
+    },
+    {
+      "id": "2103.16201",
+      "title": "Mt3: meta test-time training for self-supervised test-time adaption"
+    },
+    {
+      "id": "2107.02612",
+      "title": "Combining efficientnet and vision transformers for video deepfake detection"
+    },
+    {
+      "id": "2201.07856",
+      "title": "Investigating underdiagnosis of ai algorithms in the presence of multiple sources of dataset bias"
+    },
+    {
+      "id": "2201.08025",
+      "title": "Low-pass filtering sgd for recovering flat optima in the deep learning optimization landscape"
+    },
+    {
+      "id": "2201.08051",
+      "title": "Predicting vegetation stratum occupancy from airborne lidar data with deep learning"
+    },
+    {
+      "id": "2201.08281",
+      "title": "Symplectic momentum neural networks -- using discrete variational mechanics as a prior in deep learning"
+    },
+    {
+      "id": "2201.08187",
+      "title": "An efficient lorentz equivariant graph neural network for jet tagging"
+    }
+  ],
+  "#53: graph ; graphs ; data ; problem ; model:": [
+    {
+      "id": "2010.06261",
+      "title": "Neighborhood preserving kernels for attributed graphs"
+    },
+    {
+      "id": "2103.09660",
+      "title": "Scalable hypergraph embedding system"
+    },
+    {
+      "id": "2109.01785",
+      "title": "Node feature kernels increase graph convolutional network robustness"
+    },
+    {
+      "id": "2110.06991",
+      "title": "Scalable graph embedding learningon a single gpu"
+    },
+    {
+      "id": "2111.11966",
+      "title": "Social graph restoration via random walk sampling"
+    },
+    {
+      "id": "2201.07944",
+      "title": "Cost-effective algorithms for average-case interactive graph search"
+    },
+    {
+      "id": "2201.07986",
+      "title": "Unsupervised graph poisoning attack via contrastive loss back-propagation"
+    },
+    {
+      "id": "2201.08236",
+      "title": "Temporal knowledge graph completion: a survey"
+    }
+  ],
+  "#54: images ; ct ; data ; learning ; based:": [
+    {
+      "id": "2012.01065",
+      "title": "Bsoda: a bipartite scalable framework for online disease diagnosis"
+    },
+    {
+      "id": "2101.07653",
+      "title": "Unsupervised domain adaptation from axial to short-axis multi-slice cardiac mr images by incorporating pretrained task networks"
+    },
+    {
+      "id": "2103.01146",
+      "title": "Assessing deep learning methods for the identification of kidney stones in endoscopic images"
+    },
+    {
+      "id": "2107.11985",
+      "title": "Autonomous coordinated control of the light guide for positioning in vitreoretinal surgery"
+    },
+    {
+      "id": "2109.01485",
+      "title": "Mitodet: simple and robust mitosis detection"
+    },
+    {
+      "id": "2112.00065",
+      "title": "Boosting efficientnets ensemble performance via pseudo-labels and synthetic images by pix2pixhd for infection and ischaemia classification in diabetic foot ulcers"
+    },
+    {
+      "id": "2111.10231",
+      "title": "The method of inhalation therapy with micro-doses of mixtures noble gases with oxygen"
+    },
+    {
+      "id": "1706.03366",
+      "title": "Short-term effect of hyperbaric exposure on ventilation: a control study of 12m-depth single no-decompression dive experiment"
+    }
+  ],
+  "#55: method ; numerical ; equations ; based ; time:": [
+    {
+      "id": "2108.13400",
+      "title": "Nonlinear material identification of heterogeneous isogeometric kirchhoff-love shells"
+    },
+    {
+      "id": "2201.07940",
+      "title": "Eliminating order reduction on linear, time-dependent odes with gark methods"
+    },
+    {
+      "id": "2201.08191",
+      "title": "Three kinds of novel multi-symplectic methods for stochastic hamiltonian partial differential equations"
+    },
+    {
+      "id": "2103.16711",
+      "title": "Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory"
+    },
+    {
+      "id": "2105.02260",
+      "title": "Excitation for adaptive optimal control of nonlinear systems in differential games"
+    },
+    {
+      "id": "2110.03732",
+      "title": "An extension of gmunu: general-relativistic resistive magnetohydrodynamics based on staggered-meshed constrained transport with elliptic cleaning"
+    },
+    {
+      "id": "2110.12885",
+      "title": "Direct numerical evaluation of multi-loop integrals without contour deformation"
+    },
+    {
+      "id": "2201.08313",
+      "title": "Volume extrapolation via eigenvector continuation"
+    }
+  ],
+  "#56: bayesian ; model ; data ; posterior ; inference:": [
+    {
+      "id": "1704.02771",
+      "title": "Group importance sampling for particle filtering and mcmc"
+    },
+    {
+      "id": "1705.04770",
+      "title": "Bayesian decision making in groups is hard"
+    },
+    {
+      "id": "2201.07925",
+      "title": "Derivative-informed projected neural network for large-scale bayesian optimal experimental design"
+    },
+    {
+      "id": "2201.08180",
+      "title": "Sequential bayesian inference for uncertain nonlinear dynamic systems: a tutorial"
+    },
+    {
+      "id": "1801.09065",
+      "title": "A review of multiple try mcmc algorithms for signal processing"
+    },
+    {
+      "id": "2201.07874",
+      "title": "Bayesian prediction with covariates subject to detection limits"
+    },
+    {
+      "id": "2201.08053",
+      "title": "Bayesian fused lasso modeling via horseshoe prior"
+    }
+  ],
+  "#57: model ; decision ; fairness ; preferences ; data:": [
+    {
+      "id": "2010.09553",
+      "title": "Survey on causal-based machine learning fairness notions"
+    },
+    {
+      "id": "2109.04353",
+      "title": "Cross dqn: cross deep q network for ads allocation in feed"
+    },
+    {
+      "id": "2201.06567",
+      "title": "Tailoring stakeholder interests to task-oriented functional requirements"
+    },
+    {
+      "id": "2201.08024",
+      "title": "Ukd: debiasing conversion rate estimation via uncertainty-regularized knowledge distillation"
+    },
+    {
+      "id": "2201.08247",
+      "title": "Exploiting meta-cognitive features for a machine-learning-based one-shot group-decision aggregation"
+    },
+    {
+      "id": "2201.08340",
+      "title": "Signature entrenchment and conceptual changes in automated theory repair"
+    },
+    {
+      "id": "2201.07998",
+      "title": "Statistical learning for individualized asset allocation"
+    }
+  ],
+  "#58: model ; data ; estimator ; regression ; estimators:": [
+    {
+      "id": "2102.08573",
+      "title": "Robust mean estimation in high dimensions: an outlier fraction agnostic and efficient algorithm"
+    },
+    {
+      "id": "2201.08366",
+      "title": "Estimation of conditional random coefficient models using machine learning techniques"
+    },
+    {
+      "id": "2110.00224",
+      "title": "Censored autoregressive regression models with student-$t$ innovations"
+    },
+    {
+      "id": "2201.07796",
+      "title": "The r package $\\texttt{ebmstate}$ for disease progression analysis under empirical bayes cox models"
+    },
+    {
+      "id": "2201.08003",
+      "title": "Inference in high-dimensional multivariate response regression with hidden variables"
+    },
+    {
+      "id": "2201.08057",
+      "title": "Nonnested model selection based on empirical likelihood"
+    },
+    {
+      "id": "2201.08362",
+      "title": "Generalised functional additive mixed models with compositional covariates for areal covid-19 incidence curves"
+    }
+  ],
+  "#59: learning ; rl ; reinforcement ; policy ; reward:": [
+    {
+      "id": "2104.09343",
+      "title": "Approximated multi-agent fitted q iteration"
+    },
+    {
+      "id": "2112.12228",
+      "title": "Direct behavior specification via constrained reinforcement learning"
+    },
+    {
+      "id": "2201.04286",
+      "title": "Evolutionary action selection for gradient-based policy learning"
+    },
+    {
+      "id": "2201.08078",
+      "title": "Two-sample testing in reinforcement learning"
+    },
+    {
+      "id": "2201.08227",
+      "title": "Multi-agent covering option discovery based on kronecker product of factor graphs"
+    },
+    {
+      "id": "2201.08299",
+      "title": "Goal-conditioned reinforcement learning: problems and solutions"
+    },
+    {
+      "id": "2010.08588",
+      "title": "Reinforcement learning with neural networks for quantum multiple hypothesis testing"
+    }
+  ],
+  "#60: network ; networks ; model ; nodes ; data:": [
+    {
+      "id": "2106.01282",
+      "title": "Spectral embedding for dynamic networks with stability guarantees"
+    },
+    {
+      "id": "2110.06623",
+      "title": "Sssnet: semi-supervised signed network clustering"
+    },
+    {
+      "id": "2201.07978",
+      "title": "Network-based link prediction of scientific concepts -- a science4cast competition entry"
+    },
+    {
+      "id": "2201.07988",
+      "title": "Identifying critical nodes in complex networks by graph representation learning"
+    },
+    {
+      "id": "2201.08365",
+      "title": "The role of gossiping for information dissemination over networked agents"
+    },
+    {
+      "id": "2111.04438",
+      "title": "Community detection by resistance distance: automation and benchmark testing"
+    },
+    {
+      "id": "2201.08153",
+      "title": "Bayesian nonparametric mixtures of exponential random graph models for ensembles of networks"
+    }
+  ],
+  "#61: neural ; networks ; network ; learning ; training:": [
+    {
+      "id": "2108.01110",
+      "title": "Batch normalization preconditioning for neural network training"
+    },
+    {
+      "id": "2110.12399",
+      "title": "Binas: bilinear interpretable neural architecture search"
+    },
+    {
+      "id": "2201.06321",
+      "title": "Landscape of neural architecture search across sensors: how much do they differ ?"
+    },
+    {
+      "id": "2201.07486",
+      "title": "High-fidelity 3d model compression based on key spheres"
+    },
+    {
+      "id": "2201.08018",
+      "title": "Transfer learning for fault diagnosis of transmission lines"
+    },
+    {
+      "id": "2201.08082",
+      "title": "Kernel methods and multi-layer perceptrons learn linear models in high dimensions"
+    },
+    {
+      "id": "2201.08363",
+      "title": "Physics-informed neural networks for modeling rate- and temperature-dependent plasticity"
+    }
+  ],
+  "#62: data ; test ; tests ; model ; based:": [
+    {
+      "id": "2109.14206",
+      "title": "Exact statistical inference for the wasserstein distance by selective inference"
+    },
+    {
+      "id": "2201.07915",
+      "title": "Sensing method for two-target detection in time-constrained vector poisson channel"
+    },
+    {
+      "id": "2201.08013",
+      "title": "Comparative study on reliability estimation using monte carlo simulation with application to cylindrical pressure vessel"
+    },
+    {
+      "id": "2201.08038",
+      "title": "Construction of a quality estimation dataset for automatic evaluation of japanese grammatical error correction"
+    },
+    {
+      "id": "2201.08267",
+      "title": "Statistical detection of format dialects using the weighted dowker complex"
+    },
+    {
+      "id": "2108.04733",
+      "title": "Anomalous weak values are caused by disturbance"
+    },
+    {
+      "id": "1804.08942",
+      "title": "Internal relation between personality trait statistical outcomes among junior college divers and their performance"
+    }
+  ],
+  "#63: algorithm ; problem ; time ; log ; algorithms:": [
+    {
+      "id": "2110.00852",
+      "title": "Learning networked linear dynamical systems under non-white excitation from a single trajectory"
+    },
+    {
+      "id": "2201.06553",
+      "title": "Paired compressed cover trees guarantee a near linear parametrized complexity for all $k$-nearest neighbors search in an arbitrary metric space"
+    },
+    {
+      "id": "2201.08288",
+      "title": "Scalable $k$-d trees for distributed data"
+    },
+    {
+      "id": "2110.14712",
+      "title": "Complete characterization of the minimal-abc trees"
+    },
+    {
+      "id": "2109.15069",
+      "title": "$k$-selective percolation: a simple model leading to a rich repertoire of phase transitions"
+    },
+    {
+      "id": "2201.08183",
+      "title": "Multifractal behaviour in multiparticle production in $pp$ collisions at $\\sqrt{s}=$ 0.9, 7 and 8 tev from the cms experiment"
+    },
+    {
+      "id": "1906.06908",
+      "title": "Nested partitions from hierarchical clustering statistical validation"
+    }
+  ],
+  "#64: privacy ; data ; blockchain ; based ; bitcoin:": [
+    {
+      "id": "2201.07920",
+      "title": "Shades of finality and layer 2 scaling"
+    },
+    {
+      "id": "2201.07936",
+      "title": "How do socio-demographic patterns define digital privacy divide?"
+    },
+    {
+      "id": "2201.07946",
+      "title": "Babylon: reusing bitcoin mining to enhance proof-of-stake security"
+    },
+    {
+      "id": "2201.07964",
+      "title": "A systematic literature review of blockchain technology adoption in bangladesh"
+    },
+    {
+      "id": "2201.08120",
+      "title": "Survey on privacy-preserving techniques for data publishing"
+    },
+    {
+      "id": "2201.08261",
+      "title": "Optimization of a reed-solomon code-based protocol against blockchain data availability attacks"
+    },
+    {
+      "id": "2201.08373",
+      "title": "Tweetboost: influence of social media on nft valuation"
+    }
+  ],
+  "#65: prediction ; model ; models ; data ; forecasting:": [
+    {
+      "id": "2003.00470",
+      "title": "Dimensionality reduction to maximize prediction generalization capability"
+    },
+    {
+      "id": "2201.07999",
+      "title": "Sentiment analysis: predicting yelp scores"
+    },
+    {
+      "id": "2201.08218",
+      "title": "Long short-term memory neural network for financial time series"
+    },
+    {
+      "id": "2201.08318",
+      "title": "Cheating automatic short answer grading: on the adversarial usage of adjectives and adverbs"
+    },
+    {
+      "id": "2201.08140",
+      "title": "Ephemeral data derived potentials for random structure search"
+    },
+    {
+      "id": "2012.03854",
+      "title": "Forecasting: theory and practice"
+    }
+  ],
+  "#66: control ; controller ; systems ; model ; time:": [
+    {
+      "id": "2006.00125",
+      "title": "On regularizability and its application to online control of unstable lti systems"
+    },
+    {
+      "id": "2103.02910",
+      "title": "Model reference adaptive control of piecewise affine systems with state tracking performance guarantees"
+    },
+    {
+      "id": "2105.06577",
+      "title": "Integration of adaptive control and reinforcement learning approaches for real-time control and learning"
+    },
+    {
+      "id": "2106.09659",
+      "title": "Robustness and consistency in linear quadratic control with predictions"
+    },
+    {
+      "id": "2201.07949",
+      "title": "Distributed stochastic model predictive control for an urban traffic network"
+    },
+    {
+      "id": "2201.08321",
+      "title": "Toast: trajectory optimization and simultaneous tracking using shared neural network dynamics"
+    }
+  ],
+  "#67: clustering ; data ; algorithm ; cluster ; clusters:": [
+    {
+      "id": "2012.09202",
+      "title": "Clustering with semidefinite programming and fixed point iteration"
+    },
+    {
+      "id": "2108.04729",
+      "title": "Spectral robustness for correlation clustering reconstruction in semi-adversarial models"
+    },
+    {
+      "id": "2201.08326",
+      "title": "Learning with latent group sparsity via heat flow dynamics on networks"
+    },
+    {
+      "id": "2201.08354",
+      "title": "Hpcgen: hierarchical k-means clustering and level based principal components for scan path genaration"
+    },
+    {
+      "id": "2201.07401",
+      "title": "Multiway spherical clustering via degree-corrected tensor block models"
+    },
+    {
+      "id": "2201.08302",
+      "title": "The r package hcv for hierarchical clustering from vertex-links"
+    }
+  ],
+  "#68: data ; climate ; model ; carbon ; time:": [
+    {
+      "id": "2107.03461",
+      "title": "Comparing machine learning based segmentation models on jet fire radiation zones"
+    },
+    {
+      "id": "2201.07931",
+      "title": "Experimental large-scale jet flames' geometrical features extraction for risk management using infrared images and deep learning segmentation methods"
+    },
+    {
+      "id": "2201.08006",
+      "title": "Predictive modeling of movements of refugees and internally displaced people: towards a computational framework"
+    },
+    {
+      "id": "2108.08781",
+      "title": "Uncertainty in climate science: not cause for inaction"
+    },
+    {
+      "id": "2201.07883",
+      "title": "A simple mechanism for stable oscillations in an intermediate complexity earth system model"
+    },
+    {
+      "id": "2201.08289",
+      "title": "A dataset of hourly sea surface temperature from drifting buoys"
+    }
+  ],
+  "#69: gnns ; neural ; dnns ; graph ; dnn:": [
+    {
+      "id": "2109.00909",
+      "title": "Sparsifying the update step in graph neural networks"
+    },
+    {
+      "id": "2201.07798",
+      "title": "Cognitive explainers of graph neural networks based on medical concepts"
+    },
+    {
+      "id": "2201.07858",
+      "title": "Decoupling the depth and scope of graph neural networks"
+    },
+    {
+      "id": "2201.07951",
+      "title": "Informative pseudo-labeling for graph neural networks with few labels"
+    },
+    {
+      "id": "2201.08022",
+      "title": "Heam: high-efficiency approximate multiplier optimization for deep neural networks"
+    },
+    {
+      "id": "2201.08087",
+      "title": "Deepgalaxy: testing neural network verifiers via two-dimensional input space exploration"
+    }
+  ],
+  "#70: distribution ; random ; model ; mathbb ; time:": [
+    {
+      "id": "2201.08105",
+      "title": "Statistical depth functions for ranking distributions: definitions, statistical learning and applications"
+    },
+    {
+      "id": "1908.01653",
+      "title": "Optimal lower bound on the least singular value of the shifted ginibre ensemble"
+    },
+    {
+      "id": "1912.06639",
+      "title": "Some toy models of self-organized criticality in percolation"
+    },
+    {
+      "id": "2104.06354",
+      "title": "Brownian motion conditioned to spend limited time below a barrier"
+    },
+    {
+      "id": "2105.11585",
+      "title": "Mean field behavior during the big bang regime for coalescing random walks"
+    },
+    {
+      "id": "2201.06859",
+      "title": "Grand-canonical optimal transport"
+    }
+  ],
+  "#71: sars ; cov ; vaccination ; vaccine ; virus:": [
+    {
+      "id": "2201.08133",
+      "title": "Coavoid: secure, privacy-preserved tracing of contacts for infectious diseases"
+    },
+    {
+      "id": "2201.08336",
+      "title": "Influences of social media usage on public attitudes and behavior towards covid-19 vaccine in the arab world"
+    },
+    {
+      "id": "2103.04979",
+      "title": "Evidence suggests that sars-cov-2 rapid antigen tests provide benefits for epidemic control -- observations from austrian schools"
+    },
+    {
+      "id": "2201.07879",
+      "title": "On the origins of the omicron variant of the sars-cov-2 virus"
+    },
+    {
+      "id": "2201.08176",
+      "title": "Insights from a computational analysis of the sars-cov-2 omicron variant: host-pathogen interaction, pathogenicity and possible therapeutics"
+    },
+    {
+      "id": "2201.07945",
+      "title": "A guideline for the statistical analysis of compositional data in immunology"
+    }
+  ],
+  "#72: power ; energy ; grid ; based ; model:": [
+    {
+      "id": "2009.05411",
+      "title": "Allocation of locally generated electricity in renewable energy communities"
+    },
+    {
+      "id": "2108.00687",
+      "title": "Efficient simulation of coupled gas and power networks under uncertain demands"
+    },
+    {
+      "id": "2201.05932",
+      "title": "Joint planning of distributed generations and energy storage in active distribution networks: a bi-level programming approach"
+    },
+    {
+      "id": "2110.03716",
+      "title": "Atom probe analysis of battery materials: challenges and ways forward"
+    },
+    {
+      "id": "2201.08303",
+      "title": "Collective effects and synchronization of demand in real-time demand response"
+    }
+  ],
+  "#73: fl ; federated ; learning ; data ; model:": [
+    {
+      "id": "2105.07603",
+      "title": "Easyfl: a low-code federated learning platform for dummies"
+    },
+    {
+      "id": "2201.06598",
+      "title": "Fairness in federated learning for spatial-temporal applications"
+    },
+    {
+      "id": "2201.07912",
+      "title": "Communication-efficient device scheduling for federated learning using stochastic optimization"
+    },
+    {
+      "id": "2201.08135",
+      "title": "Survey on federated learning threats: concepts, taxonomy on attacks and defences, experimental study and challenges"
+    },
+    {
+      "id": "2201.08304",
+      "title": "Minimax demographic group fairness in federated learning"
+    }
+  ],
+  "#74: cell ; model ; cells ; tissue ; protein:": [
+    {
+      "id": "2107.03698",
+      "title": "A macroscopic approach for stress driven anisotropic growth in bioengineered soft tissues"
+    },
+    {
+      "id": "2106.01881",
+      "title": "Transient optoplasmonic detection of single proteins with sub-microsecond resolution"
+    },
+    {
+      "id": "2201.07824",
+      "title": "Nanoparticle photo-ejection from liquid via excited plasmonic supercavitation"
+    },
+    {
+      "id": "2201.07904",
+      "title": "Automated fluid model generation and numerical analysis of dielectric barrier discharges using comsol"
+    },
+    {
+      "id": "2201.08344",
+      "title": "Effect of mammalian tissue source on the molecular and macroscopic characteristics of uv-cured type i collagen hydrogel networks"
+    }
+  ],
+  "#75: income ; economic ; data ; countries ; model:": [
+    {
+      "id": "2201.06072",
+      "title": "Dynamics of bitcoin mining"
+    },
+    {
+      "id": "2201.07972",
+      "title": "Corrigendum and addendum to: how populist are parties? measuring degrees of populism in party manifestos using supervised machine learning"
+    },
+    {
+      "id": "2109.10517",
+      "title": "Does foreign debt contribute to economic growth?"
+    },
+    {
+      "id": "2201.07903",
+      "title": "Identification of direct socio-geographical price discrimination: an empirical study on iphones"
+    },
+    {
+      "id": "2201.05118",
+      "title": "Equal opportunities lead to maximum wealth inequality"
+    }
+  ],
+  "#76: segmentation ; image ; images ; learning ; based:": [
+    {
+      "id": "2102.03026",
+      "title": "Instance and panoptic segmentation using conditional convolutions"
+    },
+    {
+      "id": "2103.06725",
+      "title": "Duplex contextual relation network for polyp segmentation"
+    },
+    {
+      "id": "2103.15997",
+      "title": "Assessing yolact++ for real time and robust instance segmentation of medical instruments in endoscopic procedures"
+    },
+    {
+      "id": "2201.04812",
+      "title": "Unsupervised domain adaptation for cross-modality retinal vessel segmentation via disentangling representation style transfer and collaborative consistency learning"
+    }
+  ],
+  "#77: brain ; model ; neurons ; neural ; network:": [
+    {
+      "id": "2106.09408",
+      "title": "Predicting cognitive scores with graph neural networks through sample selection learning"
+    },
+    {
+      "id": "2112.06102",
+      "title": "Neurohsmd: neuromorphic hybrid spiking motion detector"
+    },
+    {
+      "id": "2201.08319",
+      "title": "Body models in humans and robots"
+    },
+    {
+      "id": "2201.07867",
+      "title": "The spatial scale dimension of speech processing in the human brain"
+    }
+  ],
+  "#78: epidemic ; model ; disease ; infection ; infected:": [
+    {
+      "id": "2201.07204",
+      "title": "Dynamical dorfman testing with quarantine"
+    },
+    {
+      "id": "2201.08186",
+      "title": "Conditional generation of medical time series for extrapolation to underrepresented populations"
+    },
+    {
+      "id": "2110.00533",
+      "title": "Relative contagiousness of emerging virus variants: an analysis of the alpha, delta, and omicron sars-cov-2 variants"
+    },
+    {
+      "id": "2109.11132",
+      "title": "A simple and efficient model for epidemic control on multiplex networks"
+    }
+  ],
+  "#79: learning ; machine ; data ; model ; models:": [
+    {
+      "id": "2201.08122",
+      "title": "A computational model for machine thinking"
+    },
+    {
+      "id": "2201.08246",
+      "title": "\"project smells\" -- experiences in analysing the software quality of ml projects with mllint"
+    },
+    {
+      "id": "2201.08315",
+      "title": "Predictive inference with weak supervision"
+    },
+    {
+      "id": "2201.08348",
+      "title": "Prediction of the electron density of states for crystalline compounds with atomistic line graph neural networks (alignn)"
+    }
+  ],
+  "#80: data ; sparse ; model ; method ; regression:": [
+    {
+      "id": "2103.10027",
+      "title": "Probabilistic simplex component analysis"
+    },
+    {
+      "id": "2104.14977",
+      "title": "Linear convergence of the subspace constrained mean shift algorithm: from euclidean to directional data"
+    },
+    {
+      "id": "2201.07907",
+      "title": "Localization and estimation of unknown forced inputs: a group lasso approach"
+    },
+    {
+      "id": "2201.08349",
+      "title": "Heavy-tailed sampling via transformed unadjusted langevin algorithm"
+    }
+  ],
+  "#81: species ; model ; population ; phylogenetic ; models:": [
+    {
+      "id": "2012.03030",
+      "title": "Evolution enhances mutational robustness and suppresses the emergence of a new phenotype: a new computational approach for studying evolution"
+    },
+    {
+      "id": "2112.02809",
+      "title": "A thermodynamic threshold for darwinian evolution"
+    },
+    {
+      "id": "2201.07926",
+      "title": "Resolving conceptual issues in modern coexistence theory"
+    },
+    {
+      "id": "2201.07960",
+      "title": "Coexistence in spatiotemporally fluctuating environments"
+    }
+  ],
+  "#82: covid ; 19 ; pandemic ; model ; data:": [
+    {
+      "id": "2108.07565",
+      "title": "Comparing the dynamics of covid-19 infection and mortality in the united states, india, and brazil"
+    },
+    {
+      "id": "2011.04892",
+      "title": "Exploring the impact of under-reported cases on the covid-19 spatiotemporal distribution using healthcare worker infection data"
+    },
+    {
+      "id": "2112.13044",
+      "title": "Covid 19: open source model for rapid reduction of r to below 1 in high r0 scenarios"
+    },
+    {
+      "id": "2201.08224",
+      "title": "A model of the transmission of sars-cov-2 (covid-19) with an underlying condition of diabetes"
+    }
+  ],
+  "#83: adversarial ; attacks ; training ; robustness ; attack:": [
+    {
+      "id": "2104.01732",
+      "title": "Semantically stealthy adversarial attacks against segmentation models"
+    },
+    {
+      "id": "2201.08193",
+      "title": "Learning-based hybrid local search for the hard-label textual attack"
+    },
+    {
+      "id": "2201.08361",
+      "title": "Stitch it in time: gan-based facial editing of real videos"
+    }
+  ],
+  "#84: uav ; uavs ; aerial ; unmanned ; based:": [
+    {
+      "id": "2110.04699",
+      "title": "Toward ubiquitous and flexible coverage of uav-irs-assisted noma networks"
+    },
+    {
+      "id": "2201.07886",
+      "title": "Thz-empowered uavs in 6g: opportunities, challenges, and trade-offs"
+    },
+    {
+      "id": "2201.07992",
+      "title": "Electric vehicle traveling salesman problem with drone"
+    }
+  ],
+  "#85: risk ; market ; portfolio ; financial ; model:": [
+    {
+      "id": "2110.13716",
+      "title": "Hist: a graph-based framework for stock trend forecasting via mining concept-oriented shared information"
+    },
+    {
+      "id": "2201.08276",
+      "title": "Applicability of large corporate credit models to small business risk assessment"
+    },
+    {
+      "id": "2110.03810",
+      "title": "Optimal turnover, liquidity, and autocorrelation"
+    }
+  ],
+  "#86: protein ; data ; gene ; dna ; genes:": [
+    {
+      "id": "2201.07996",
+      "title": "Evaluating the performance of clone detection tools in detecting cloned co-change candidates"
+    },
+    {
+      "id": "2201.08110",
+      "title": "Nnp/mm: fast molecular dynamics simulations with machine learning potentials and molecular mechanics"
+    },
+    {
+      "id": "2201.08357",
+      "title": "The specialized high-performance network on anton 3"
+    }
+  ],
+  "#87: games ; game ; players ; player ; nash:": [
+    {
+      "id": "2201.08210",
+      "title": "Comparative study of cloud and non-cloud gaming platform: apercu"
+    },
+    {
+      "id": "2009.11363",
+      "title": "Tic-tac-toe on an affine plane of order 4"
+    },
+    {
+      "id": "2201.07850",
+      "title": "A unifying framework for submodular mean field games"
+    }
+  ],
+  "#88: market ; price ; model ; optimal ; pricing:": [
+    {
+      "id": "2201.07880",
+      "title": "Deep self-consistent learning of local volatility"
+    },
+    {
+      "id": "2201.07975",
+      "title": "Effect structure and thermodynamics formulation of demand-side economics"
+    },
+    {
+      "id": "2201.07930",
+      "title": "Stochastic representation under g-expectation and applications: the discrete time case"
+    }
+  ],
+  "#89: music ; audio ; musical ; model ; songs:": [
+    {
+      "id": "2006.14221",
+      "title": "Modeling baroque two-part counterpoint with neural machine translation"
+    },
+    {
+      "id": "2201.07429",
+      "title": "Opencpop: a high-quality open source chinese popular song corpus for singing voice synthesis"
+    }
+  ],
+  "#90: causal ; data ; effect ; effects ; treatment:": [
+    {
+      "id": "2112.08265",
+      "title": "Causality in requirements artifacts: prevalence, detection, and impact"
+    },
+    {
+      "id": "2106.14243",
+      "title": "A generalizability score for aggregate causal effect"
+    }
+  ],
+  "#91: gan ; gans ; generative ; adversarial ; data:": [
+    {
+      "id": "2201.06346",
+      "title": "Can we find neurons that cause unrealistic images in deep generative networks?"
+    },
+    {
+      "id": "2201.08042",
+      "title": "Gan-based matrix factorization for recommender systems"
+    }
+  ],
+  "#92: speech ; speaker ; asr ; model ; based:": [
+    {
+      "id": "2201.07876",
+      "title": "Unsupervised personalization of an emotion recognition system: the unique properties of the externalization of valence in speech"
+    },
+    {
+      "id": "2201.08124",
+      "title": "Cross-lingual text-to-speech using multi-task learning and speaker classifier joint training"
+    }
+  ],
+  "#93: convolutional ; cnns ; neural ; cnn ; networks:": [
+    {
+      "id": "2104.11510",
+      "title": "Time series forecasting via learning convolutionally low-rank models"
+    }
+  ],
+  "#94: eeg ; ecg ; seizure ; based ; seizures:": [
+    {
+      "id": "2108.09817",
+      "title": "Electroencephalogram signal processing with independent component analysis and cognitive stress classification using convolutional neural networks"
+    }
+  ],
+  "#95: mri ; data ; mr ; imaging ; image:": [
+    {
+      "id": "2111.03780",
+      "title": "Artifact- and content-specific quality assessment for mri with image rulers"
+    }
+  ],
+  "#96: matrix ; data ; tensor ; rank ; algorithm:": [
+    {
+      "id": "2112.09893",
+      "title": "Revisiting memory efficient kernel approximation: an indefinite learning perspective"
+    }
+  ]
+}

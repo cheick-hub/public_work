@@ -1,26 +1,35 @@
-from flask import Flask
+from flask import Flask, render_template, url_for   
 import pandas as pd
 import json
 import numpy as np
 
 app = Flask(__name__)
 
-def load_articles():
-    with open('data/to_display.json') as f:
+def load_abstract():
+    with open('data/to_display_abstract.json') as f:
         to_display_json = json.load(f)
-    s = ''
-    for cluster in to_display_json:
-        s += f'<h2>{cluster}</h2>\n<p>'
-        for article in to_display_json[cluster]:
-            s += f'<a href="https://arxiv.org/abs/{article["id"]}">{article["title"]}</a><br/>\n'
-        s += '</p>'
-    return s
+    return to_display_json
 
 
-@app.route("/")
-def hello_world():
-    s = '<h1>Most frequent article clusters of the last 48 hours</h1>\n\n'
+def load_title():
+    with open('data/to_display_title.json') as f:
+        to_display_json = json.load(f)
+    return to_display_json
 
-    s += load_articles()
-    
-    return s
+
+# ROUTES
+# ======
+
+@app.route('/')
+def default():
+    return abstract()
+
+@app.route("/abstract")
+def abstract():
+    return render_template("home.html", data=load_abstract(), title='title', link='title')
+
+
+@app.route("/title")
+def title():
+    return render_template("home.html", data=load_abstract(), title='abstract', link='abstract')
+

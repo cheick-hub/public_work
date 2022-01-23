@@ -1,0 +1,24 @@
+{% extends "layout.html"%}
+{% block content %}
+<main role="main" class="container">
+    <h3 class="display-3"> Most frequent article clusters of the last 48 hours</h1>
+    <p>
+        Based on the papers abstracts. See for paper {{title}}  <a href= "{{url_for( link )}}" >here</a>.</p>.<br>
+    </p>
+
+    {% for element in data %}
+        <div class="container p-3 my-3 center border">
+            <div class="jumbotron">
+                <h3 >{{ element }}</h3>
+                <button class="togg1"> Voir contenu !</button>
+                <ul class="list-group list-group-flush contenu" style="display: none;">
+                    {% for article in data[element] %}
+                    <li class="list-group-item"><a href="https://arxiv.org/abs/{{article.id}}" target="_blank">{{article.title}}</a></li>
+                    {% endfor %}
+                </ul>  
+            </div>
+            
+        </div>
+    {% endfor %}
+</main>
+{% endblock content %}
