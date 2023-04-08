@@ -9,4 +9,8 @@ This repo contains the following files/directories :
 
 - `Neural_MF.html` : this file contains a benchmark between three deep learning models on the task of infering users opinions(ratings). This is based on matrix factorisation in recommender systems on the well-know dataset `movielens`. (Interpretation in progress 😅)
 
-- `Optimisation_MLL.pdf` : this file is a report made in a optimization lab called [ORKAD](https://www.cristal.univ-lille.fr/equipes/orkad/) during my last year in Licence. The main topic are about Machine Learning and Optimization. This report is write in French. The problematic was : "How do optimization help solving multi-label classification problems ?"
+- "writed_by_me" : holds the papers I produced during my Master's degree, including "offline_reinforcement_learning.pdf" - my thesis on offline reinforcement learning, supervised by Phillipe PREUX (Head of Reinforcement Learning Lab at [INRIA](https://hal.inria.fr/hal-00736322)), "memoire_Pymma_Software.pdf" - a detailed paper describing the encountered problems and proposed solutions during my apprenticeship, and "Optimisation_ORKAD.pdf" - a report created in the optimization lab [ORKAD](https://www.cristal.univ-lille.fr/equipes/orkad/)  with the assistance of Laeticia Jourdan (Head of ORKAD Team) in my last year of Licence.
+
+
+
+
